@@ -1,11 +1,33 @@
-<img width="118" alt="telegram" src="https://user-images.githubusercontent.com/100597998/159125765-e3136ec4-4fdf-4eaf-90a4-10fbf120103e.png"> ![hi 1](https://user-images.githubusercontent.com/100597998/159125885-8e89ab0f-d240-4656-9f62-f7bbd56ac4c5.gif)
+<div id="header" align="center">  
+  <h1>
+  Hey There I am Krishna
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/DMKrishnaA">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+    <img src="https://komarev.com/ghpvc/?username=MrKrishnaAgarwal&style=flat-square&color=blue" alt=""/>
+  </div>
 
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in I’m interested in Coding,App Devlopment,Web Devlopment,AR/VR/MR/XR,Python,Java,Cybersecurity,Google Cloud and recent technologies.
+- 🌱 I’m currently learning  I’m currently learning Python,App Devlopment,Google Cloud.
+- 💞️ I’m looking to collaborate on with Devlopers
+- 📫 How to reach me: dmkrishna.agarwal@gmail.com
+
+
+Find Me On
 
 <!---
 MrKrishnaAgarwal/MrKrishnaAgarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
