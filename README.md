@@ -44,6 +44,7 @@
   ---
 
 ### :fire: My Stats :
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=vision-friendly-dark)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
