@@ -35,7 +35,7 @@
 
 - <h5>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h5>
 
-- <h5>:mailbox:How to reach me: <a href="dmkrishna.agarwal@gmail.com">E-Mail,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal">LinkedIn,</a>&nbsp;<a href="https://telegram.me/dmkrishna">Telegram</a></h5>
+- <h5>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal">LinkedIn,</a>&nbsp;<a href="https://telegram.me/dmkrishna">Telegram.</a></h5>
 
 <div align="center">
   
