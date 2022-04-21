@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines="✍🏻Every+Profile+Has+A+Story✍🏻";"😊Welcome+To+Mine😊")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines="✍🏻Every+Profile+Has+A+Story✍🏻";"😊Welcome+To+Mine😊")](https://mrkrishna.w3spaces.com)
 <div id="header" align="center">  
   <h1>
   Hey There I am Krishna
@@ -45,7 +45,7 @@
   
 ## :fire: My Stats :
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=great-gatsby)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://mrkrishna.w3spaces.com)
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
