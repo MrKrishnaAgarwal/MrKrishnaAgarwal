@@ -6,7 +6,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="" width="100"/>
 </div>
 
 <div id="header" align="center">
@@ -29,9 +29,9 @@
    <h4>:man_technologist:
  I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h4> </div>
   
- - <h5>:telescope: I'm a student in Class 7 and I'm Learning Coding And App & Web Devlopment.</h5>
+ - <h5>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learnign Programming, App & Web Development</h5>
 
-- <h5>:seedling: I’m interested in Coding, App Devlopment, Web Devlopment, Google Cloud, MetaVerse and recent technologies.</h5>
+- <h5>:seedling: I’m interested in Coding, App Development, Web Development, Google Cloud, MetaVerse and recent technologies.</h5>
 
 - <h5>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h5>
 
