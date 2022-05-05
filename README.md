@@ -29,7 +29,7 @@
    <h4>:man_technologist:
  I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h4> </div>
   
- - <h5>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learnign Programming, App & Web Development</h5>
+ - <h5>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development</h5>
 
 - <h5>:seedling: I’m interested in Coding, App Development, Web Development, Google Cloud, MetaVerse and recent technologies.</h5>
 
