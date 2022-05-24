@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines="✍🏻Every+Profile+Has+A+Story✍🏻";"😊Welcome+To+Mine😊")](https://mrkrishna.w3spaces.com)
+<div align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1831FF&lines=Hey+There!+I'm+Krishna;Nice+to+meet+you;I+am+learning+to+code...%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Interested+in+new+technologies;Do+check+out+my+repos+;You+were+chatting+with+Krishna+%F0%9F%98%8A;Thank-You+and+Have+a+Nice+Day+%F0%9F%99%8F%F0%9F%8F%BB)](https://mrkrishna.w3spaces.com)  
 <div id="header" align="center">  
   <h1>
   Hey There I am Krishna
@@ -7,22 +9,33 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> <br>
 
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        
+  <a href="https://krishna-agarwal.medium.com">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+
   <a href="https://twitter.com/DMKrishnaA">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        
+  <a href="https://dev.to/krishnaagarwal">
+<img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=Dev&logoColor=white" alt="Dev Badge"/>
+<br>   
+
   </a>
 </div>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=MrKrishnaAgarwal&style=flat-square&color=blue" alt=""/>
   </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- 
+  </div>
+  
   
 
 ## :man_technologist: About Me :
@@ -92,18 +105,29 @@
  </h3> 
   
 ## :fire: My Stats :
+   <a href="https://github.com/MrKrishnaAgarwal"><img src="https://img.shields.io/github/followers/MrKrishnaAgarwal?label=follow&style=social"/>
+  
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=great-gatsby)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://mrkrishna.w3spaces.com)
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
   
+  <details>   <summary>:zap:  <h4 align="center"> More </h4>
+</summary>
+
   
   ## ✍🏻 Start Your Day With Inspiring Quotes:
   ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=vision-friendly-dark)
   
+   ## :black_nib: Latest Blog Posts :clipboard: 
+<a href="https://medium.com/@Krishna-Agarwal/all-about-hackathons-9ce34187d095" />All About Hackathons</a></li>
+<p><a href="https://medium.com/@Krishna-Agarwal">➡️ More blog posts</a></p>
+
   
- ## 🏆Let's Connect and Innovate
+ </details>
+
+ ## 🏆Let's Connect and Innovate🏆
   <img src = "https://media3.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif?cid=ecf05e47n0kgd7i72vpsqptoauxl2l4qz9rl4mj3vod0n8bl&rid=giphy.gif&ct=g" width="205px" />
   
   </div>
