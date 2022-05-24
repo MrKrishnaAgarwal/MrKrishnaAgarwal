@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 
   <a href="https://twitter.com/DMKrishnaA">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         
   <a href="https://dev.to/krishnaagarwal">
 <img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=Dev&logoColor=white" alt="Dev Badge"/>
