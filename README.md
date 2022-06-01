@@ -4,11 +4,11 @@
 <div id="header" align="center">  
   <h1>
   Hey There I am Krishna
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src=https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" height="50px" width="40px"/>
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
 </div> <br>
 
 <div id="header" align="center">
@@ -32,7 +32,7 @@
     <img src="https://komarev.com/ghpvc/?username=MrKrishnaAgarwal&style=flat-square&color=blue" alt=""/>
   </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="400"/>
 </div>
   </div>
   
@@ -128,7 +128,7 @@
  </details>
 
  ## 🏆Let's Connect and Innovate🏆
-  <img src = "https://media3.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif?cid=ecf05e47n0kgd7i72vpsqptoauxl2l4qz9rl4mj3vod0n8bl&rid=giphy.gif&ct=g" width="205px" />
+  <img src = "https://i.giphy.com/media/10dvjmLNHQ6O3e/giphy.gif" height="320px" width="210px" />
   
   </div>
   
