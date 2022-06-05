@@ -37,7 +37,8 @@
   </div>
   
   
-
+<div align="center">
+                   
 ## :man_technologist: About Me :
    <h4>:man_technologist:
  I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h4> </div>
@@ -113,18 +114,27 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
   
-  <details>   <summary>:zap:  <h4 align="center"> More </h4>
+  <details>   <summary> <h4 align="center"> Quotes </h4>
 </summary>
 
   
   ## ✍🏻 Start Your Day With Inspiring Quotes:
   ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=vision-friendly-dark)
+                                                </details>
+                                          
+<details>   <summary>  <h4 align="center"> Latest Blogs </h4>
+                                         </summary>
   
    ## :black_nib: Latest Blog Posts :clipboard: 
 <a href="https://medium.com/@Krishna-Agarwal/all-about-hackathons-9ce34187d095" />All About Hackathons</a></li>
 <p><a href="https://medium.com/@Krishna-Agarwal">➡️ More blog posts</a></p>
+                                                </details>
 
-  
+  <details>   <summary> <h4 align="center"> Quotes </h4>
+</summary>
+                                          
+  ## Latest Tweets
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)](https://github.com/gazf/github-readme-twitter)
  </details>
 
  ## 🏆Let's Connect and Innovate🏆
