@@ -1,6 +1,6 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1831FF&lines=Hey+There!+I'm+Krishna;Nice+to+meet+you;I+am+learning+to+code...%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Interested+in+new+technologies;Do+check+out+my+repos+;You+were+chatting+with+Krishna+%F0%9F%98%8A;Thank-You+and+Have+a+Nice+Day+%F0%9F%99%8F%F0%9F%8F%BB)](https://mrkrishna.w3spaces.com)  
+  
 <div id="header" align="center">  
   <h1>
   Hey There I am Krishna
