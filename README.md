@@ -130,7 +130,7 @@
 <p><a href="https://medium.com/@Krishna-Agarwal">➡️ More blog posts</a></p>
                                                 </details>
 
-  <details>   <summary> <h4 align="center"> Quotes </h4>
+  <details>   <summary> <h4 align="center"> Latest Tweets & Replies </h4>
 </summary>
                                           
   ## Latest Tweets
