@@ -53,6 +53,7 @@
 
 <div align="center">
 <h2 align="center">  🛠️ Languages and Tools 🛠️</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <h5 align="center"> 👨‍💻 Programming languages </h5>
 
@@ -65,7 +66,8 @@
       <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
       
   </h3>
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
   <h5 align="center"> 🧰 Frameworks and libraries </h5>
   <h3 align="center"> 
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
@@ -87,7 +89,8 @@
       <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%2320232a.svg?logo=Kubernetes&logoColor=%2361DAFB"></a>
     
   </h3>
-  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ 
   
   <h5 align="center"> 💻 Software and tools </h5>
 
@@ -104,7 +107,8 @@
      <img alt="Canva" src="https://img.shields.io/badge/Canva-yellow?logo=canva&logoColor=blue"></a>     
      <img alt="GoogleCloud" src="https://img.shields.io/badge/Google Cloud-yellow?logo=googlecloud&logoColor=blue"></a>       
  </h3> 
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 ## :fire: My Stats :
    <a href="https://github.com/MrKrishnaAgarwal"><img src="https://img.shields.io/github/followers/MrKrishnaAgarwal?label=follow&style=social"/>
   
