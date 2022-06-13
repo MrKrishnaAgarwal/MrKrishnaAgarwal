@@ -142,10 +142,14 @@
   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)](https://github.com/gazf/github-readme-twitter)
  </details>
                                           
+<br>
+                                          
 <h2 align="center">Testimonials ✉</h2>
 
 <h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/MrKrishnaAgarwal/MrKrishnaAgarwal/discussions/2">here</a></b> and I'll add it!</h3>
-
+<br>
+<br>
+                                                                                                                                                      
  ## 🏆Let's Connect and Innovate🏆
   <img src = "https://i.giphy.com/media/10dvjmLNHQ6O3e/giphy.gif" height="320px" width="210px" />
   <img src = "https://user-images.githubusercontent.com/100597998/171995514-0d8c5723-2e7f-48c9-9c24-e9ddbc2e3951.gif" height="320px" width="210px" />
