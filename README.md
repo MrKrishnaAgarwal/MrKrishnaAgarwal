@@ -141,6 +141,10 @@
   ## Latest Tweets
   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)](https://github.com/gazf/github-readme-twitter)
  </details>
+                                          
+<h2 align="center">Testimonials ✉</h2>
+
+<h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/MrKrishnaAgarwal/MrKrishnaAgarwal/discussions/2">here</a></b> and I'll add it!</h3>
 
  ## 🏆Let's Connect and Innovate🏆
   <img src = "https://i.giphy.com/media/10dvjmLNHQ6O3e/giphy.gif" height="320px" width="210px" />
