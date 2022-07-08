@@ -151,7 +151,7 @@
 <br>
                                                                                                                                                       
  ## 🏆Let's Connect and Innovate🏆
-  <img src = "https://user-images.githubusercontent.com/100597998/177541362-d10a0d9b-bf42-482c-b795-1e4e65697012.png" width="300" />  
+  <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />  
   </div>
   
 <!---
