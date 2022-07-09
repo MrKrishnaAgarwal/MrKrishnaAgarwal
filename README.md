@@ -131,8 +131,7 @@
                                          </summary>
   
    ## :black_nib: Latest Blog Posts :clipboard: 
-<a href="https://medium.com/@Krishna-Agarwal/all-about-hackathons-9ce34187d095" />All About Hackathons</a></li>
-<p><a href="https://medium.com/@Krishna-Agarwal">➡️ More blog posts</a></p>
+![Metrics](https://metrics.lecoq.io/mrkrishnaagarwal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&posts=1&base.indepth=false&base.hireable=false&posts.source=dev.to&posts.user=krishnaagarwal&posts.descriptions=true&posts.covers=true&posts.limit=4&config.timezone=Asia%2FCalcutta)</p>
                                                 </details>
 
   <details>   <summary> <h4 align="center"> Latest Tweets & Replies </h4>
