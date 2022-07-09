@@ -131,14 +131,14 @@
                                          </summary>
   
    ## :black_nib: Latest Blog Posts :clipboard: 
-![Metrics](https://metrics.lecoq.io/mrkrishnaagarwal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&posts=1&base.indepth=false&base.hireable=false&posts.source=dev.to&posts.user=krishnaagarwal&posts.descriptions=true&posts.covers=true&posts.limit=4&config.timezone=Asia%2FCalcutta)</p>
+![Metrics](https://metrics.lecoq.io/asmiagarwal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&posts=1&base.indepth=false&base.hireable=false&posts.source=dev.to&posts.user=krishnaagarwal&posts.descriptions=true&posts.covers=true&posts.limit=4&config.timezone=Asia%2FCalcutta)</p>
                                                 </details>
 
   <details>   <summary> <h4 align="center"> Latest Tweets & Replies </h4>
 </summary>
                                           
   ## Latest Tweets
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)](https://github.com/gazf/github-readme-twitter)
+  ![Metrics](https://metrics.lecoq.io/mrkrishnaagarwal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&posts=1&base.indepth=false&base.hireable=false&posts.source=dev.to&posts.user=krishnaagarwal&posts.descriptions=true&posts.covers=true&posts.limit=4&config.timezone=Asia%2FCalcutta)
  </details>
                                           
 <br>
