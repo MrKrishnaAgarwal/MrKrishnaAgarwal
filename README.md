@@ -138,7 +138,7 @@
 </summary>
                                           
   ## Latest Tweets
-  ![Metrics](https://metrics.lecoq.io/mrkrishnaagarwal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&posts=1&base.indepth=false&base.hireable=false&posts.source=dev.to&posts.user=krishnaagarwal&posts.descriptions=true&posts.covers=true&posts.limit=4&config.timezone=Asia%2FCalcutta)
+  ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)
  </details>
                                           
 <br>
