@@ -131,6 +131,8 @@
                                          </summary>
   
    ## :black_nib: Latest Blog Posts :clipboard: 
+   <h4 align="left">
+   
 <!-- BLOG-POST-LIST:START -->
 - [Share your swags](https://dev.to/krishnaagarwal/share-your-swags-2pm3)
 - [When you feel lost, be kinder to yourself.](https://dev.to/krishnaagarwal/when-you-feel-lost-be-kinder-to-yourself-40k2)
@@ -139,7 +141,9 @@
 - [Which is your most visited website?](https://dev.to/krishnaagarwal/which-is-your-most-visited-website-474d)
 <!-- BLOG-POST-LIST:END -->
 
-                                                </details>
+➡️ [more blog posts...](https://dev.to/krishnaagarwal)
+</details>
+</h4>
 
   <details>   <summary> <h4 align="center"> Latest Tweets & Replies </h4>
 </summary>
