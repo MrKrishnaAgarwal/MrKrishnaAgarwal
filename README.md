@@ -132,7 +132,11 @@
   
    ## :black_nib: Latest Blog Posts :clipboard: 
 <!-- BLOG-POST-LIST:START -->
-
+- [Share your swags](https://dev.to/krishnaagarwal/share-your-swags-2pm3)
+- [When you feel lost, be kinder to yourself.](https://dev.to/krishnaagarwal/when-you-feel-lost-be-kinder-to-yourself-40k2)
+- [How many programming languages do you know?](https://dev.to/krishnaagarwal/how-many-programming-languages-do-you-know-3p4f)
+- [GitHub Profile ReadMe](https://dev.to/krishnaagarwal/hey-47n1)
+- [Which is your most visited website?](https://dev.to/krishnaagarwal/which-is-your-most-visited-website-474d)
 <!-- BLOG-POST-LIST:END -->
 
                                                 </details>
