@@ -52,7 +52,10 @@
 - <h5>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal">LinkedIn,</a>&nbsp;<a href="https://telegram.me/MrKrishnaAgarwal">Telegram.</a></h5>
 
 <div align="center">
-<h2 align="center">  🛠️ Languages and Tools 🛠️</h2>
+
+<details>   <summary> <h4 align="center">  🛠️ Languages and Tools 🛠️ </h4>
+</summary>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <h5 align="center"> 👨‍💻 Programming languages </h5>
@@ -109,6 +112,10 @@
      <img alt="GoogleCloud" src="https://img.shields.io/badge/Google Cloud-yellow?logo=googlecloud&logoColor=blue"></a>       
  </h3> 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+  </details>
+
+  <details>   <summary> <h4 align="center"> My GitHub Stats 🎯</h4>
+</summary>
 
 ## :fire: My Stats :
    <a href="https://github.com/MrKrishnaAgarwal"><img src="https://img.shields.io/github/followers/MrKrishnaAgarwal?label=follow&style=social"/>
@@ -119,7 +126,9 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
   
-  <details>   <summary> <h4 align="center"> Quotes </h4>
+ </details>
+  
+  <details>   <summary> <h4 align="center"> Quotes 🖋</h4>
 </summary>
 
   
@@ -127,7 +136,7 @@
   ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=vision-friendly-dark)
                                                 </details>
                                           
-<details>   <summary>  <h4 align="center"> Latest Blogs </h4>
+<details>   <summary>  <h4 align="center"> Latest Blogs 📅</h4>
                                          </summary>
   
    ## :black_nib: Latest Blog Posts :clipboard: 
@@ -145,7 +154,7 @@
 </details>
 </h4>
 
-  <details>   <summary> <h4 align="center"> Latest Tweets & Replies </h4>
+  <details>   <summary> <h4 align="center"> Latest Tweets & Replies 📝</h4>
 </summary>
                                           
   ## Latest Tweets
@@ -160,6 +169,15 @@
 <a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
 </p>
  </details>
+ 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/mrkrishnaagarwal/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrkrishnaagarwal&padding=30&skills=css,html,json,javascript,Jupyter Notebook,python,shell,c,c%23,reactjs,'>
+  </a>
+
+</details>
                                           
 <br>
                                           
