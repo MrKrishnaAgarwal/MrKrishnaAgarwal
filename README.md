@@ -40,16 +40,16 @@
 <div align="center">
                    
 ## :man_technologist: About Me :
-   <h4>:man_technologist:
- I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h4> </div>
+   <h3>:man_technologist:
+ I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
   
- - <h5>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development</h5>
+ - <h4>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development</h4>
 
-- <h5>:seedling: I’m interested in Coding, App Development, Web Development, Google Cloud, MetaVerse and recent technologies.</h5>
+- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Google Cloud, MetaVerse and recent technologies.</h4>
 
-- <h5>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h5>
+- <h4>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h4>
 
-- <h5>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal">LinkedIn,</a>&nbsp;<a href="https://telegram.me/MrKrishnaAgarwal">Telegram.</a></h5>
+- <h4>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal">LinkedIn,</a>&nbsp;<a href="https://telegram.me/MrKrishnaAgarwal">Telegram.</a></h4>
 
 <div align="center">
 
