@@ -143,11 +143,11 @@
    <h4 align="left">
    
 <!-- BLOG-POST-LIST:START -->
+- [The Best Github Repos for Self-Taught](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 - [My GitHub ReadMe](https://dev.to/krishnaagarwal/my-github-readme-ob7)
 - [New GitHub Achievements](https://dev.to/krishnaagarwal/new-github-achievements-3lae)
 - [Share your swags](https://dev.to/krishnaagarwal/share-your-swags-2pm3)
 - [When you feel lost, be kinder to yourself.](https://dev.to/krishnaagarwal/when-you-feel-lost-be-kinder-to-yourself-40k2)
-- [How many programming languages do you know?](https://dev.to/krishnaagarwal/how-many-programming-languages-do-you-know-3p4f)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/krishnaagarwal)
