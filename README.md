@@ -143,11 +143,11 @@
    <h4 align="left">
    
 <!-- BLOG-POST-LIST:START -->
+- [Make Your VS Code Terminal Look Awesome](https://dev.to/krishnaagarwal/make-your-vs-code-terminal-look-awesome-2gnl)
 - [The Best Github Repos for Self-Taught](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 - [My GitHub ReadMe](https://dev.to/krishnaagarwal/my-github-readme-ob7)
 - [New GitHub Achievements](https://dev.to/krishnaagarwal/new-github-achievements-3lae)
 - [Share your swags](https://dev.to/krishnaagarwal/share-your-swags-2pm3)
-- [When you feel lost, be kinder to yourself.](https://dev.to/krishnaagarwal/when-you-feel-lost-be-kinder-to-yourself-40k2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/krishnaagarwal)
