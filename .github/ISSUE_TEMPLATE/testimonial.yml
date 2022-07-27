@@ -1,0 +1,20 @@
+name: Testimonials
+description: Testimonials for Krishna Agarwal
+title: <Subject>
+labels: [enhancement, Testimonials]
+assignees: MrKrishnaAgarwal
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Description (More Info)
+      placeholder: Describe what you like about me here.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also Follow me on [GitHub](https://github.com/MrKrishnaAgarwal), and [Twitter](https://twitter.com/DMKRISHNAA)
+        Feel free to checkout my other cool [repositories](https://github.com/MrKrishnaAgarwal?tab=repositories) and [articles](https://dev.to/krishnaagarwal)
+        <br>
+        <img src= "https://octodex.github.com/images/supportcat.png" width="400">
