@@ -143,11 +143,11 @@
    <h4 align="left">
    
 <!-- BLOG-POST-LIST:START -->
+- [How I Passed The Microsoft Azure AI Fundamentals &lpar;AI-900&rpar;](https://dev.to/krishnaagarwal/how-i-passed-the-microsoft-azure-ai-fundamentals-ai-900-39d0)
 - [5 Google products that have been built for Developers &lpar;Part-1&rpar;](https://dev.to/krishnaagarwal/5-google-products-that-have-been-built-for-developers-part-1-2hm2)
 - [20 Git Commands Every Developer Should Know](https://dev.to/krishnaagarwal/20-git-commands-every-developer-should-know-27o7)
 - [Make Your VS Code Terminal Look Awesome](https://dev.to/krishnaagarwal/make-your-vs-code-terminal-look-awesome-2gnl)
 - [The Best Github Repos for Self-Taught](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
-- [My GitHub ReadMe](https://dev.to/krishnaagarwal/my-github-readme-ob7)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/krishnaagarwal)
