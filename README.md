@@ -128,13 +128,14 @@
   
  </details>
   
-  <details>   <summary> <h4 align="center"> Quotes 🖋</h4>
+  <details>   <summary> <h4 align="center"> My Followers 👬</h4>
 </summary>
 
-  
-  ## ✍🏻 Start Your Day With Inspiring Quotes:
-  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=vision-friendly-dark)
-                                                </details>
+ <!--START_SECTION:top-followers-->
+ 
+ <!--END_SECTION:top-followers-->
+ 
+</details>
                                           
 <details>   <summary>  <h4 align="center"> Latest Blogs 📅</h4>
                                          </summary>
@@ -184,7 +185,7 @@
 
 <br>
                                                                                                                                                       
- ## 🏆Let's Connect & Thanks for reading till here!
+ ## 🏆 Let's Connect & Thanks for reading till here!
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />  
   </div>
   
