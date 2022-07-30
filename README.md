@@ -13,8 +13,8 @@
 
 <div id="header" align="center">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://github.com/MrKrishnaAgarwal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
         
   <a href="https://krishna-agarwal.medium.com">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         
   <a href="https://dev.to/krishnaagarwal">
-<img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=Dev&logoColor=white" alt="Dev Badge"/>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
 <br>   
 
   </a>
@@ -170,14 +170,7 @@
 </p>
  </details>
  
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/mrkrishnaagarwal/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrkrishnaagarwal&padding=30&skills=css,html,json,javascript,Jupyter Notebook,python,shell,c,c%23,reactjs,'>
-  </a>
 
-</details>
                                           
 <br>
                                           
@@ -186,7 +179,7 @@
 <h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/MrKrishnaAgarwal/MrKrishnaAgarwal/discussions/2">here</a></b> and I'll add it!</h3>
 <br>
 
-**[snowlyg](https://github.com/snowlyg): @MrKrishnaAgarwal I like your profile very much.**
+**[snowlyg](https://github.com/snowlyg): I like your profile very much.**
 <br>
 
 <br>
