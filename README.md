@@ -193,11 +193,11 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/0mehedihasan">
-        <img src="https://avatars2.githubusercontent.com/u/106642643" width="100px;" alt="0mehedihasan"/>
+      <a href="https://github.com/AhmedAchraf2001">
+        <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
       </a>
       <br />
-      <a href="https://github.com/0mehedihasan">Md. Mehedi Hasan</a>
+      <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
     </td>
     <td align="center">
       <a href="https://github.com/skylineaxilleas">
@@ -205,13 +205,6 @@
       </a>
       <br />
       <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AhmedAchraf2001">
-        <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
     </td>
     <td align="center">
       <a href="https://github.com/wavescats">
@@ -234,8 +227,6 @@
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/messenger-1012">
         <img src="https://avatars2.githubusercontent.com/u/27795050" width="100px;" alt="messenger-1012"/>
@@ -243,6 +234,8 @@
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
@@ -279,11 +272,18 @@
       <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hansdoebel">
-        <img src="https://avatars2.githubusercontent.com/u/14842582" width="100px;" alt="hansdoebel"/>
+      <a href="https://github.com/shridharkapshikar">
+        <img src="https://avatars2.githubusercontent.com/u/14037517" width="100px;" alt="shridharkapshikar"/>
       </a>
       <br />
-      <a href="https://github.com/hansdoebel">hans</a>
+      <a href="https://github.com/shridharkapshikar">Shridhar Kapshikar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prakashvishal93">
+        <img src="https://avatars2.githubusercontent.com/u/85199417" width="100px;" alt="prakashvishal93"/>
+      </a>
+      <br />
+      <a href="https://github.com/prakashvishal93">Vishal Prakash</a>
     </td>
   </tr>
 </table>
