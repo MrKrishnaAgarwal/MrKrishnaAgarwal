@@ -19,11 +19,14 @@
   <a href="https://krishna-agarwal.medium.com">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 
-  <a href="https://twitter.com/DMKrishnaA">
+  <a href="https://twitter.com/intent/follow?&screen_name=DMKrishnaA">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         
   <a href="https://dev.to/krishnaagarwal">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
+
+  <a href = "mailto:dmkrishna.agarwal@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 <br>   
 
   </a>
