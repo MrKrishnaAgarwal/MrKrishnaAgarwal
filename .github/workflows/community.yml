@@ -21,4 +21,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: 'Hello @contributor_name, Welcome to this repo, Congratulations on opening your issue. Keep Contributing'
           pr-message: 'Hello @contributor_name, Welcome to this repo, Congratulations on opening your Pull Requests. Keep Contributing'
-          footer: '<h4>Meanwhile, You can also Follow me on <a href="https://github.com/MrKrishnaAgarwal">GitHub</a>, and <a href="https://twitter.com/DMKrishnaA">Twitter</a> also Feel free to checkout my other cool <a href="https://github.com/MrKrishnaAgarwal?tab=repositories">repositories</a> and <a href="https://dev.to/krishnaagarwal">articles</a></h4>'
+          footer: 'Meanwhile, You can also Follow me on <a href="https://github.com/MrKrishnaAgarwal">GitHub</a>, and <a href="https://twitter.com/DMKrishnaA">Twitter</a> also Feel free to checkout my other cool <a href="https://github.com/MrKrishnaAgarwal?tab=repositories">repositories</a> and <a href="https://dev.to/krishnaagarwal">articles</a>'
