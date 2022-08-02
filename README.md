@@ -145,18 +145,18 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/horizenight">
         <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
       </a>
       <br />
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/danimonettelli">
