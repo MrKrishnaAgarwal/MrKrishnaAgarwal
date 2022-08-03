@@ -196,18 +196,18 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AhmedAchraf2001">
-        <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/skylineaxilleas">
         <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
       </a>
       <br />
       <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedAchraf2001">
+        <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
     </td>
     <td align="center">
       <a href="https://github.com/wavescats">
@@ -268,18 +268,18 @@
       <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hargunrana">
-        <img src="https://avatars2.githubusercontent.com/u/81432834" width="100px;" alt="hargunrana"/>
-      </a>
-      <br />
-      <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shridharkapshikar">
         <img src="https://avatars2.githubusercontent.com/u/14037517" width="100px;" alt="shridharkapshikar"/>
       </a>
       <br />
       <a href="https://github.com/shridharkapshikar">Shridhar Kapshikar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hargunrana">
+        <img src="https://avatars2.githubusercontent.com/u/81432834" width="100px;" alt="hargunrana"/>
+      </a>
+      <br />
+      <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
     </td>
     <td align="center">
       <a href="https://github.com/prakashvishal93">
