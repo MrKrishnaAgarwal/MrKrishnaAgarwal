@@ -210,13 +210,6 @@
       <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wavescats">
-        <img src="https://avatars2.githubusercontent.com/u/97342533" width="100px;" alt="wavescats"/>
-      </a>
-      <br />
-      <a href="https://github.com/wavescats">wavescats</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
@@ -237,8 +230,6 @@
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
@@ -246,6 +237,8 @@
       <br />
       <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/akbar-ardiansyah">
         <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
@@ -287,6 +280,13 @@
       </a>
       <br />
       <a href="https://github.com/prakashvishal93">Vishal Prakash</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xunhongt">
+        <img src="https://avatars2.githubusercontent.com/u/55247532" width="100px;" alt="xunhongt"/>
+      </a>
+      <br />
+      <a href="https://github.com/xunhongt">Xun Hong</a>
     </td>
   </tr>
 </table>
