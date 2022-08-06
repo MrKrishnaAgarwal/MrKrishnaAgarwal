@@ -152,18 +152,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/danimonettelli">
-        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danimonettelli"/>
-      </a>
-      <br />
-      <a href="https://github.com/danimonettelli">Daniel Monettelli</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danimonettelli">
+        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danimonettelli"/>
+      </a>
+      <br />
+      <a href="https://github.com/danimonettelli">Daniel Monettelli</a>
     </td>
     <td align="center">
       <a href="https://github.com/rukundob451">
@@ -196,11 +196,11 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/skylineaxilleas">
-        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
+      <a href="https://github.com/mgolcu00">
+        <img src="https://avatars2.githubusercontent.com/u/44591905" width="100px;" alt="mgolcu00"/>
       </a>
       <br />
-      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
+      <a href="https://github.com/mgolcu00">Mert Golcu</a>
     </td>
     <td align="center">
       <a href="https://github.com/AhmedAchraf2001">
@@ -208,6 +208,13 @@
       </a>
       <br />
       <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/skylineaxilleas">
+        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
+      </a>
+      <br />
+      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
     </td>
     <td align="center">
       <a href="https://github.com/vaneela">
@@ -230,6 +237,8 @@
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
@@ -237,8 +246,6 @@
       <br />
       <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ViktoryDev">
         <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
@@ -280,13 +287,6 @@
       </a>
       <br />
       <a href="https://github.com/prakashvishal93">Vishal Prakash</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xunhongt">
-        <img src="https://avatars2.githubusercontent.com/u/55247532" width="100px;" alt="xunhongt"/>
-      </a>
-      <br />
-      <a href="https://github.com/xunhongt">Xun Hong</a>
     </td>
   </tr>
 </table>
