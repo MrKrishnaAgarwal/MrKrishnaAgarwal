@@ -13,8 +13,7 @@
 
 <div id="header" align="center">
   <div id="badges">
-  <a href="https://github.com/MrKrishnaAgarwal">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+ 
         
   <a href="https://krishna-agarwal.medium.com">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
@@ -52,11 +51,11 @@
 
 - <h4>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h4>
 
-- <h4>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://www.linkedin.com/in/Mr-Krishna-Agarwal">LinkedIn,</a>&nbsp;<a href="https://telegram.me/MrKrishnaAgarwal">Telegram.</a></h4>
+- <h4>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://telegram.me/MrKrishnaAgarwal">Telegram.</a></h4>
 
 <div align="center">
 
-<details>   <summary> <h4 align="center">  🛠️ Languages and Tools 🛠️ </h4>
+<details>   <summary> <h4 align="center"> Languages and Tools 🛠️ </h4>
 </summary>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
