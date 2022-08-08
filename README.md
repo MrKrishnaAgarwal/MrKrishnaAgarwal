@@ -196,18 +196,18 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mgolcu00">
-        <img src="https://avatars2.githubusercontent.com/u/44591905" width="100px;" alt="mgolcu00"/>
-      </a>
-      <br />
-      <a href="https://github.com/mgolcu00">Mert Golcu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/skylineaxilleas">
         <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
       </a>
       <br />
       <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mgolcu00">
+        <img src="https://avatars2.githubusercontent.com/u/44591905" width="100px;" alt="mgolcu00"/>
+      </a>
+      <br />
+      <a href="https://github.com/mgolcu00">Mert Golcu</a>
     </td>
     <td align="center">
       <a href="https://github.com/AhmedAchraf2001">
