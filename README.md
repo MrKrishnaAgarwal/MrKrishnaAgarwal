@@ -165,18 +165,18 @@
       <a href="https://github.com/danimonettelli">Daniel Monettelli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rukundob451">
-        <img src="https://avatars2.githubusercontent.com/u/67878128" width="100px;" alt="rukundob451"/>
-      </a>
-      <br />
-      <a href="https://github.com/rukundob451">Benjamin Rukundo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
       <br />
       <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rukundob451">
+        <img src="https://avatars2.githubusercontent.com/u/67878128" width="100px;" alt="rukundob451"/>
+      </a>
+      <br />
+      <a href="https://github.com/rukundob451">Benjamin Rukundo</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
