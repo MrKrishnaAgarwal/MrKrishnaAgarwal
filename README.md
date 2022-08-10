@@ -144,18 +144,18 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/horizenight">
-        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
-      </a>
-      <br />
-      <a href="https://github.com/horizenight">Kshitij roodkee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/horizenight">
+        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
+      </a>
+      <br />
+      <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
       <a href="https://github.com/danimonettelli">
@@ -165,18 +165,18 @@
       <a href="https://github.com/danimonettelli">Daniel Monettelli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gambhirsharma">
-        <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
-      </a>
-      <br />
-      <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rukundob451">
         <img src="https://avatars2.githubusercontent.com/u/67878128" width="100px;" alt="rukundob451"/>
       </a>
       <br />
       <a href="https://github.com/rukundob451">Benjamin Rukundo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gambhirsharma">
+        <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
+      </a>
+      <br />
+      <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
@@ -281,11 +281,11 @@
       <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prakashvishal93">
-        <img src="https://avatars2.githubusercontent.com/u/85199417" width="100px;" alt="prakashvishal93"/>
+      <a href="https://github.com/razaquegoraya007">
+        <img src="https://avatars2.githubusercontent.com/u/88664048" width="100px;" alt="razaquegoraya007"/>
       </a>
       <br />
-      <a href="https://github.com/prakashvishal93">Vishal Prakash</a>
+      <a href="https://github.com/razaquegoraya007">Abdul Razaque Goraya</a>
     </td>
   </tr>
 </table>
