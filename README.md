@@ -165,18 +165,18 @@
       <a href="https://github.com/danimonettelli">Daniel Monettelli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rukundob451">
-        <img src="https://avatars2.githubusercontent.com/u/67878128" width="100px;" alt="rukundob451"/>
-      </a>
-      <br />
-      <a href="https://github.com/rukundob451">Benjamin Rukundo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
       <br />
       <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rukundob451">
+        <img src="https://avatars2.githubusercontent.com/u/67878128" width="100px;" alt="rukundob451"/>
+      </a>
+      <br />
+      <a href="https://github.com/rukundob451">Benjamin Rukundo</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
@@ -267,6 +267,13 @@
       <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
     </td>
     <td align="center">
+      <a href="https://github.com/razaquegoraya007">
+        <img src="https://avatars2.githubusercontent.com/u/88664048" width="100px;" alt="razaquegoraya007"/>
+      </a>
+      <br />
+      <a href="https://github.com/razaquegoraya007">Abdul Razaque Goraya</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/shridharkapshikar">
         <img src="https://avatars2.githubusercontent.com/u/14037517" width="100px;" alt="shridharkapshikar"/>
       </a>
@@ -279,13 +286,6 @@
       </a>
       <br />
       <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/razaquegoraya007">
-        <img src="https://avatars2.githubusercontent.com/u/88664048" width="100px;" alt="razaquegoraya007"/>
-      </a>
-      <br />
-      <a href="https://github.com/razaquegoraya007">Abdul Razaque Goraya</a>
     </td>
   </tr>
 </table>
