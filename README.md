@@ -144,18 +144,18 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/horizenight">
         <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
       </a>
       <br />
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/danimonettelli">
@@ -246,18 +246,18 @@
       <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ViktoryDev">
-        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akbar-ardiansyah">
         <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
       </a>
       <br />
       <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ViktoryDev">
+        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
     </td>
     <td align="center">
       <a href="https://github.com/vamsi-tupakula">
