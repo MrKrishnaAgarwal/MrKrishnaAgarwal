@@ -179,14 +179,21 @@
       <a href="https://github.com/rukundob451">Benjamin Rukundo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MELKHATEEB">
+        <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
+      </a>
+      <br />
+      <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/AnsonZnl">
         <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
       </a>
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
@@ -229,6 +236,15 @@
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/akbar-ardiansyah">
+        <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
+      </a>
+      <br />
+      <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
+    </td>
     <td align="center">
       <a href="https://github.com/messenger-1012">
         <img src="https://avatars2.githubusercontent.com/u/27795050" width="100px;" alt="messenger-1012"/>
@@ -236,21 +252,12 @@
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
       </a>
       <br />
       <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/akbar-ardiansyah">
-        <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
-      </a>
-      <br />
-      <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
     </td>
     <td align="center">
       <a href="https://github.com/ViktoryDev">
@@ -279,13 +286,6 @@
       </a>
       <br />
       <a href="https://github.com/shridharkapshikar">Shridhar Kapshikar</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hargunrana">
-        <img src="https://avatars2.githubusercontent.com/u/81432834" width="100px;" alt="hargunrana"/>
-      </a>
-      <br />
-      <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
     </td>
   </tr>
 </table>
