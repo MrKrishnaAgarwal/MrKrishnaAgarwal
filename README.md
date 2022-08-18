@@ -267,18 +267,18 @@
       <a href="https://github.com/ViktoryDev">Viktor Turla</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vamsi-tupakula">
-        <img src="https://avatars2.githubusercontent.com/u/88920294" width="100px;" alt="vamsi-tupakula"/>
-      </a>
-      <br />
-      <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/razaquegoraya007">
         <img src="https://avatars2.githubusercontent.com/u/88664048" width="100px;" alt="razaquegoraya007"/>
       </a>
       <br />
       <a href="https://github.com/razaquegoraya007">Abdul Razaque Goraya</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vamsi-tupakula">
+        <img src="https://avatars2.githubusercontent.com/u/88920294" width="100px;" alt="vamsi-tupakula"/>
+      </a>
+      <br />
+      <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
     </td>
     <td align="center">
       <a href="https://github.com/shridharkapshikar">
