@@ -202,18 +202,18 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/skylineaxilleas">
-        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
-      </a>
-      <br />
-      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
       <br />
       <a href="https://github.com/vaneela">Vaneela Khatri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/skylineaxilleas">
+        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
+      </a>
+      <br />
+      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
     </td>
     <td align="center">
       <a href="https://github.com/mgolcu00">
@@ -274,18 +274,18 @@
       <a href="https://github.com/razaquegoraya007">Abdul Razaque Goraya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vamsi-tupakula">
-        <img src="https://avatars2.githubusercontent.com/u/88920294" width="100px;" alt="vamsi-tupakula"/>
+      <a href="https://github.com/hargunrana">
+        <img src="https://avatars2.githubusercontent.com/u/81432834" width="100px;" alt="hargunrana"/>
       </a>
       <br />
-      <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
+      <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shridharkapshikar">
-        <img src="https://avatars2.githubusercontent.com/u/14037517" width="100px;" alt="shridharkapshikar"/>
+      <a href="https://github.com/xunhongt">
+        <img src="https://avatars2.githubusercontent.com/u/55247532" width="100px;" alt="xunhongt"/>
       </a>
       <br />
-      <a href="https://github.com/shridharkapshikar">Shridhar Kapshikar</a>
+      <a href="https://github.com/xunhongt">Xun Hong</a>
     </td>
   </tr>
 </table>
