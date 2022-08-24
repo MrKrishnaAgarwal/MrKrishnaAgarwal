@@ -246,13 +246,6 @@
       <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/josepedrolorenzini">
-        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
-      </a>
-      <br />
-      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ViktoryDev">
         <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
       </a>
@@ -265,6 +258,13 @@
       </a>
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/josepedrolorenzini">
+        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
+      </a>
+      <br />
+      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
     <td align="center">
       <a href="https://github.com/razaquegoraya007">
