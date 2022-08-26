@@ -267,6 +267,13 @@
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
     <td align="center">
+      <a href="https://github.com/vamsi-tupakula">
+        <img src="https://avatars2.githubusercontent.com/u/88920294" width="100px;" alt="vamsi-tupakula"/>
+      </a>
+      <br />
+      <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/razaquegoraya007">
         <img src="https://avatars2.githubusercontent.com/u/88664048" width="100px;" alt="razaquegoraya007"/>
       </a>
@@ -279,13 +286,6 @@
       </a>
       <br />
       <a href="https://github.com/prakashvishal93">Vishal Prakash</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xunhongt">
-        <img src="https://avatars2.githubusercontent.com/u/55247532" width="100px;" alt="xunhongt"/>
-      </a>
-      <br />
-      <a href="https://github.com/xunhongt">Xun Hong</a>
     </td>
   </tr>
 </table>
