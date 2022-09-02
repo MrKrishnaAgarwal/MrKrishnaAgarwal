@@ -202,6 +202,13 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
+      <a href="https://github.com/soumildatta">
+        <img src="https://avatars2.githubusercontent.com/u/35431692" width="100px;" alt="soumildatta"/>
+      </a>
+      <br />
+      <a href="https://github.com/soumildatta">Soumil Datta</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
@@ -229,6 +236,8 @@
       <br />
       <a href="https://github.com/mgolcu00">Mert Golcu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AftabAhmedAbro">
         <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
@@ -236,8 +245,6 @@
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
@@ -251,6 +258,13 @@
       </a>
       <br />
       <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iShelar">
+        <img src="https://avatars2.githubusercontent.com/u/51042360" width="100px;" alt="iShelar"/>
+      </a>
+      <br />
+      <a href="https://github.com/iShelar">Saurabh Shelar</a>
     </td>
     <td align="center">
       <a href="https://github.com/ViktoryDev">
@@ -272,20 +286,6 @@
       </a>
       <br />
       <a href="https://github.com/yash022">Yash Sehgal</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vamsi-tupakula">
-        <img src="https://avatars2.githubusercontent.com/u/88920294" width="100px;" alt="vamsi-tupakula"/>
-      </a>
-      <br />
-      <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/razaquegoraya007">
-        <img src="https://avatars2.githubusercontent.com/u/88664048" width="100px;" alt="razaquegoraya007"/>
-      </a>
-      <br />
-      <a href="https://github.com/razaquegoraya007">Abdul Razaque Goraya</a>
     </td>
   </tr>
 </table>
