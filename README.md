@@ -35,8 +35,9 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=MrKrishnaAgarwal&style=flat-square&color=blue" alt=""/>
   </div>
+  <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/100597998/188261910-5f4bf00d-0651-4d0a-ba39-bc1c0439be1c.png" height="400"/>
 </div>
   </div>
   
@@ -53,7 +54,9 @@
 
 - <h4>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h4>
 
-- <h4>:mailbox:How to reach me:<p>Email: dmkrishna.agarwal@gmail.com,</a>&nbsp;<a href="https://twitter.com/DMKrishnaA">Twitter,</a>&nbsp;<a href="https://telegram.me/MrKrishnaAgarwal">Telegram.</a></h4>
+- <h4>:mailbox:How to reach me: </h4> 
+
+<a herf= "mailto:dmkrishna.agarwal@gmail.com"> **Email:** dmkrishna.agarwal@gmail.com </a>
 
 <div align="center">
 
