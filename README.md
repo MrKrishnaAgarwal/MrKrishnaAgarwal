@@ -272,18 +272,18 @@
       <a href="https://github.com/iShelar">Saurabh Shelar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ViktoryDev">
-        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/messenger-1012">
         <img src="https://avatars2.githubusercontent.com/u/27795050" width="100px;" alt="messenger-1012"/>
       </a>
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ViktoryDev">
+        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
     </td>
     <td align="center">
       <a href="https://github.com/yash022">
