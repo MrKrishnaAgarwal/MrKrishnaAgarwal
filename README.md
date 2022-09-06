@@ -207,6 +207,13 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
+      <a href="https://github.com/skylineaxilleas">
+        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
+      </a>
+      <br />
+      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/soumildatta">
         <img src="https://avatars2.githubusercontent.com/u/35431692" width="100px;" alt="soumildatta"/>
       </a>
@@ -219,13 +226,6 @@
       </a>
       <br />
       <a href="https://github.com/vaneela">Vaneela Khatri</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/skylineaxilleas">
-        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
-      </a>
-      <br />
-      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
     </td>
     <td align="center">
       <a href="https://github.com/AhmedAchraf2001">
