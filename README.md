@@ -258,6 +258,13 @@
       <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
     <td align="center">
+      <a href="https://github.com/iShelar">
+        <img src="https://avatars2.githubusercontent.com/u/51042360" width="100px;" alt="iShelar"/>
+      </a>
+      <br />
+      <a href="https://github.com/iShelar">Saurabh Shelar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/akbar-ardiansyah">
         <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
       </a>
@@ -265,11 +272,11 @@
       <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/iShelar">
-        <img src="https://avatars2.githubusercontent.com/u/51042360" width="100px;" alt="iShelar"/>
+      <a href="https://github.com/KirstenDarling">
+        <img src="https://avatars2.githubusercontent.com/u/54489152" width="100px;" alt="KirstenDarling"/>
       </a>
       <br />
-      <a href="https://github.com/iShelar">Saurabh Shelar</a>
+      <a href="https://github.com/KirstenDarling">Kirsten Darling</a>
     </td>
     <td align="center">
       <a href="https://github.com/messenger-1012">
@@ -284,13 +291,6 @@
       </a>
       <br />
       <a href="https://github.com/ViktoryDev">Viktor Turla</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yash022">
-        <img src="https://avatars2.githubusercontent.com/u/96070479" width="100px;" alt="yash022"/>
-      </a>
-      <br />
-      <a href="https://github.com/yash022">Yash Sehgal</a>
     </td>
   </tr>
 </table>
