@@ -221,18 +221,18 @@
       <a href="https://github.com/vaneela">Vaneela Khatri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AhmedAchraf2001">
-        <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mgolcu00">
         <img src="https://avatars2.githubusercontent.com/u/44591905" width="100px;" alt="mgolcu00"/>
       </a>
       <br />
       <a href="https://github.com/mgolcu00">Mert Golcu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedAchraf2001">
+        <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
     </td>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
