@@ -23,9 +23,9 @@ jobs:
       - name: Commit changes
         run: |
           git config --local user.email "dmkrishna.agarwal@gmail.com"
-          git config --local user.name "MrKrishnaAgarwal[bot]"
+          git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Updated top followers"
+          git diff-index --quiet HEAD || git commit -m "Updated followers (Automated 🤖)"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
