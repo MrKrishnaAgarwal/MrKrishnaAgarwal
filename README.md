@@ -251,6 +251,13 @@
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
     <td align="center">
+      <a href="https://github.com/garimavs">
+        <img src="https://avatars2.githubusercontent.com/u/77723358" width="100px;" alt="garimavs"/>
+      </a>
+      <br />
+      <a href="https://github.com/garimavs">Garima Singh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/iShelar">
         <img src="https://avatars2.githubusercontent.com/u/51042360" width="100px;" alt="iShelar"/>
       </a>
@@ -284,13 +291,6 @@
       </a>
       <br />
       <a href="https://github.com/ViktoryDev">Viktor Turla</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yash022">
-        <img src="https://avatars2.githubusercontent.com/u/96070479" width="100px;" alt="yash022"/>
-      </a>
-      <br />
-      <a href="https://github.com/yash022">Yash Sehgal</a>
     </td>
   </tr>
 </table>
