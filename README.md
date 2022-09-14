@@ -214,6 +214,13 @@
       <a href="https://github.com/soumildatta">Soumil Datta</a>
     </td>
     <td align="center">
+      <a href="https://github.com/josepedrolorenzini">
+        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
+      </a>
+      <br />
+      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
@@ -233,13 +240,6 @@
       </a>
       <br />
       <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/josepedrolorenzini">
-        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
-      </a>
-      <br />
-      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
   </tr>
   <tr>
