@@ -265,18 +265,18 @@
       <a href="https://github.com/garimavs">Garima Singh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/iShelar">
-        <img src="https://avatars2.githubusercontent.com/u/51042360" width="100px;" alt="iShelar"/>
-      </a>
-      <br />
-      <a href="https://github.com/iShelar">Saurabh Shelar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KirstenDarling">
         <img src="https://avatars2.githubusercontent.com/u/54489152" width="100px;" alt="KirstenDarling"/>
       </a>
       <br />
       <a href="https://github.com/KirstenDarling">Kirsten Darling</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iShelar">
+        <img src="https://avatars2.githubusercontent.com/u/51042360" width="100px;" alt="iShelar"/>
+      </a>
+      <br />
+      <a href="https://github.com/iShelar">Saurabh Shelar</a>
     </td>
     <td align="center">
       <a href="https://github.com/messenger-1012">
