@@ -254,13 +254,6 @@
       <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AftabAhmedAbro">
-        <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
-      </a>
-      <br />
-      <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/garimavs">
         <img src="https://avatars2.githubusercontent.com/u/77723358" width="100px;" alt="garimavs"/>
       </a>
@@ -273,6 +266,13 @@
       </a>
       <br />
       <a href="https://github.com/KirstenDarling">Kirsten Darling</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AftabAhmedAbro">
+        <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
+      </a>
+      <br />
+      <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
     <td align="center">
       <a href="https://github.com/iShelar">
@@ -289,11 +289,11 @@
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ViktoryDev">
-        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
+      <a href="https://github.com/akbar-ardiansyah">
+        <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
       </a>
       <br />
-      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
+      <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
     </td>
   </tr>
 </table>
