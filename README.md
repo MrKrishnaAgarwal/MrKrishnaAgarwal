@@ -28,6 +28,9 @@
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>                                                                                                                     
   <a href = "https://discordapp.com/users/983949353171447838">
     <img src = "https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
+    
+  <a href = "https://telegram.me/MrKrishnaAgarwal">
+    <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
 <br>   
 
   </a>
