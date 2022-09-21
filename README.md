@@ -332,6 +332,7 @@
   <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards</b></h2>
 <p align="left">
 <a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
+<a href="https://appwrite.io/thankyou.txt" target="blank"><img align="center" src="Appwrite Maker Card.png"  alt="Appwrite Maker" width="90" /></a>
 </p>
  </details>
  
