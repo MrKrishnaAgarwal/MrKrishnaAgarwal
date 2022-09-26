@@ -289,11 +289,11 @@
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
     <td align="center">
-      <a href="https://github.com/akbar-ardiansyah">
-        <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
+      <a href="https://github.com/ViktoryDev">
+        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
       </a>
       <br />
-      <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
+      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
     </td>
   </tr>
 </table>
