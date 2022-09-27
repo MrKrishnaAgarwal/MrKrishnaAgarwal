@@ -159,18 +159,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/danielmonettelli">
         <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
       </a>
       <br />
       <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/gambhirsharma">
@@ -261,18 +261,18 @@
       <a href="https://github.com/KirstenDarling">Kirsten Darling</a>
     </td>
     <td align="center">
-      <a href="https://github.com/garimavs">
-        <img src="https://avatars2.githubusercontent.com/u/77723358" width="100px;" alt="garimavs"/>
-      </a>
-      <br />
-      <a href="https://github.com/garimavs">Garima Singh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AftabAhmedAbro">
         <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
       </a>
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/garimavs">
+        <img src="https://avatars2.githubusercontent.com/u/77723358" width="100px;" alt="garimavs"/>
+      </a>
+      <br />
+      <a href="https://github.com/garimavs">Garima Singh</a>
     </td>
     <td align="center">
       <a href="https://github.com/iShelar">
