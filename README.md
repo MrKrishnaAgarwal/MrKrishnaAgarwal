@@ -333,6 +333,7 @@
 <p align="left">
 <a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
 <a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="90" /></a>
+<a href="https://www.holopin.io/@mrkrishnaagarwal" target="blank"><img align="center" src="https://bit.ly/3Ci2CCA"  alt="MrKrishnaAgarwal's Maker Card" width="90" /></a>
 </p>
  </details>
  
