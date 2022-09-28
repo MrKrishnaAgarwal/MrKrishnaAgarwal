@@ -159,18 +159,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/danielmonettelli">
-        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
-      </a>
-      <br />
-      <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielmonettelli">
+        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
+      </a>
+      <br />
+      <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
     </td>
     <td align="center">
       <a href="https://github.com/gambhirsharma">
@@ -217,11 +217,11 @@
       <a href="https://github.com/soumildatta">Soumil Datta</a>
     </td>
     <td align="center">
-      <a href="https://github.com/josepedrolorenzini">
-        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
+      <a href="https://github.com/volicar">
+        <img src="https://avatars2.githubusercontent.com/u/38734622" width="100px;" alt="volicar"/>
       </a>
       <br />
-      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
+      <a href="https://github.com/volicar">Vinícius Olicar</a>
     </td>
     <td align="center">
       <a href="https://github.com/Huluvu424242">
@@ -246,6 +246,13 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/josepedrolorenzini">
+        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
+      </a>
+      <br />
+      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
+    </td>
     <td align="center">
       <a href="https://github.com/AhmedAchraf2001">
         <img src="https://avatars2.githubusercontent.com/u/88565569" width="100px;" alt="AhmedAchraf2001"/>
@@ -287,13 +294,6 @@
       </a>
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ViktoryDev">
-        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
     </td>
   </tr>
 </table>
