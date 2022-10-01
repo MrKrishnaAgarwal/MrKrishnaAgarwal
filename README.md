@@ -224,13 +224,6 @@
       <a href="https://github.com/volicar">Vinícius Olicar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Huluvu424242">
-        <img src="https://avatars2.githubusercontent.com/u/1297475" width="100px;" alt="Huluvu424242"/>
-      </a>
-      <br />
-      <a href="https://github.com/Huluvu424242">Huluvu424242</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
@@ -238,20 +231,27 @@
       <a href="https://github.com/vaneela">Vaneela Khatri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mgolcu00">
-        <img src="https://avatars2.githubusercontent.com/u/44591905" width="100px;" alt="mgolcu00"/>
-      </a>
-      <br />
-      <a href="https://github.com/mgolcu00">Mert Golcu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
       </a>
       <br />
       <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Huluvu424242">
+        <img src="https://avatars2.githubusercontent.com/u/1297475" width="100px;" alt="Huluvu424242"/>
+      </a>
+      <br />
+      <a href="https://github.com/Huluvu424242">Huluvu424242</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mgolcu00">
+        <img src="https://avatars2.githubusercontent.com/u/44591905" width="100px;" alt="mgolcu00"/>
+      </a>
+      <br />
+      <a href="https://github.com/mgolcu00">Mert Golcu</a>
     </td>
     <td align="center">
       <a href="https://github.com/AhmedAchraf2001">
