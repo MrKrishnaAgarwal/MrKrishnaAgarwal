@@ -135,6 +135,8 @@
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
+                                                                                                                                              
+  ![Krishna's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=MrKrishnaAgarwal&theme=react-dark)                                                                                                                       
   
  </details>
   
