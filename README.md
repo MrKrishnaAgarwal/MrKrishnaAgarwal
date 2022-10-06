@@ -161,18 +161,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
       <br />
       <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/danielmonettelli">
@@ -205,13 +205,6 @@
       <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
-      <a href="https://github.com/01001101ilad">
-        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
-      </a>
-      <br />
-      <a href="https://github.com/01001101ilad">Milad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/muhammadanas0716">
         <img src="https://avatars2.githubusercontent.com/u/81016607" width="100px;" alt="muhammadanas0716"/>
       </a>
@@ -224,6 +217,13 @@
       </a>
       <br />
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/01001101ilad">
+        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
+      </a>
+      <br />
+      <a href="https://github.com/01001101ilad">Milad</a>
     </td>
     <td align="center">
       <a href="https://github.com/irvanmoses">
@@ -284,18 +284,18 @@
       <a href="https://github.com/mgolcu00">Mert Golcu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/josepedrolorenzini">
-        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
-      </a>
-      <br />
-      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AftabAhmedAbro">
         <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
       </a>
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/josepedrolorenzini">
+        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
+      </a>
+      <br />
+      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
   </tr>
 </table>
