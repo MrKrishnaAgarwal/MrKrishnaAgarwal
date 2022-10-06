@@ -1,7 +1,7 @@
 on:
   fork:
   push:
-    branches: [develop]
+    branches: [main]
   issues:
     types: [opened]
   issue_comment:
@@ -19,6 +19,6 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h2>Hey, Welcome to this repo, Congratulations on opening your issue. Keep Contributing</h2>'
-          pr-message: '<h2>Hey, Welcome to this repo, Congratulations on opening your Pull Requests. Keep Contributing</h2>'
-          footer: '<h4>Meanwhile, You can also Follow me on <a href="https://github.com/MrKrishnaAgarwal">GitHub</a>, and <a href="https://twitter.com/DMKrishnaA">Twitter</a> also Feel free to checkout my other cool <a href="https://github.com/MrKrishnaAgarwal?tab=repositories">repositories</a> and <a href="https://dev.to/krishnaagarwal">articles</a></h4>'
+          issue-message: "Hey @${{ github.actor }}, Thanks for contributing and Congrats on opening Issue :tada:"
+          pr-message: "Hey @${{ github.actor }}, Thanks for contributing and Congrats on opening PR :tada:."
+          footer: "We will try to review as soon as possible and a maintainer will get back to you soon!"
