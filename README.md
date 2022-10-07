@@ -198,18 +198,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/antonekstrom1">
-        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
-      </a>
-      <br />
-      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/muhammadanas0716">
         <img src="https://avatars2.githubusercontent.com/u/81016607" width="100px;" alt="muhammadanas0716"/>
       </a>
       <br />
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antonekstrom1">
+        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
+      </a>
+      <br />
+      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ah-Gr">
@@ -284,18 +284,18 @@
       <a href="https://github.com/mgolcu00">Mert Golcu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/KirstenDarling">
+        <img src="https://avatars2.githubusercontent.com/u/54489152" width="100px;" alt="KirstenDarling"/>
+      </a>
+      <br />
+      <a href="https://github.com/KirstenDarling">Kirsten Darling</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AftabAhmedAbro">
         <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
       </a>
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/josepedrolorenzini">
-        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
-      </a>
-      <br />
-      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
     </td>
   </tr>
 </table>
