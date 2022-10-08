@@ -226,12 +226,28 @@
       <a href="https://github.com/01001101ilad">Milad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/randhirshaw">
+        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
+      </a>
+      <br />
+      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/irvanmoses">
         <img src="https://avatars2.githubusercontent.com/u/74028306" width="100px;" alt="irvanmoses"/>
       </a>
       <br />
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/AnshuPathak-88825">
+        <img src="https://avatars2.githubusercontent.com/u/78332454" width="100px;" alt="AnshuPathak-88825"/>
+      </a>
+      <br />
+      <a href="https://github.com/AnshuPathak-88825">Anshu Pathak</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/skylineaxilleas">
         <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
@@ -246,8 +262,6 @@
       <br />
       <a href="https://github.com/soumildatta">Soumil Datta</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
@@ -282,20 +296,6 @@
       </a>
       <br />
       <a href="https://github.com/mgolcu00">Mert Golcu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KirstenDarling">
-        <img src="https://avatars2.githubusercontent.com/u/54489152" width="100px;" alt="KirstenDarling"/>
-      </a>
-      <br />
-      <a href="https://github.com/KirstenDarling">Kirsten Darling</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AftabAhmedAbro">
-        <img src="https://avatars2.githubusercontent.com/u/73740818" width="100px;" alt="AftabAhmedAbro"/>
-      </a>
-      <br />
-      <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
   </tr>
 </table>
