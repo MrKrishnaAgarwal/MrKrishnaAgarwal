@@ -256,18 +256,18 @@
       <a href="https://github.com/AnshuPathak-88825">Anshu Pathak</a>
     </td>
     <td align="center">
-      <a href="https://github.com/skylineaxilleas">
-        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
-      </a>
-      <br />
-      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vaneela">
         <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
       <br />
       <a href="https://github.com/vaneela">Vaneela Khatri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/skylineaxilleas">
+        <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
+      </a>
+      <br />
+      <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
     </td>
     <td align="center">
       <a href="https://github.com/soumildatta">
