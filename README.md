@@ -351,8 +351,10 @@
 
 **[Yoga Prasetiyo](https://github.com/yogaxv): wow! good profile!**
 
-<br>                                                                                                                                                 
+<br>           
+
  ## 🏆 Let's Connect & Thanks for reading till here!
+ 
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />  
   </div>
   
