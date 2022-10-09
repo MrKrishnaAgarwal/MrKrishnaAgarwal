@@ -338,9 +338,7 @@
 <a href="https://www.holopin.io/@mrkrishnaagarwal" target="blank"><img align="center" src="https://bit.ly/3Ci2CCA"  alt="MrKrishnaAgarwal's Maker Card" width="90" /></a>
 </p>
  </details>
- 
-
-                                          
+                                  
 <br>
                                           
 <h2 align="center">Testimonials ✉</h2>
@@ -353,9 +351,7 @@
 
 **[Yoga Prasetiyo](https://github.com/yogaxv): wow! good profile!**
 
-
-<br>
-                                                                                                                                                      
+<br>                                                                                                                                                 
  ## 🏆 Let's Connect & Thanks for reading till here!
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />  
   </div>
@@ -364,5 +360,3 @@
 MrKrishnaAgarwal/MrKrishnaAgarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
