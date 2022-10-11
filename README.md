@@ -1,3 +1,5 @@
+<!--- Start Profile README --->
+
 <div align="center">
 <img src = "https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
   
@@ -360,6 +362,16 @@
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />  
   </div>
   
+  <div align="center">
+
+  <h4 class="credit"><b>Designed & Developed with <img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/red-heart.gif" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
+  </div>
+</h4>
+
+<!--- Profile README Credits: @MrKrishnaAgarwal --->
+
+<!--- End Profile README --->
+
 <!---
 MrKrishnaAgarwal/MrKrishnaAgarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
