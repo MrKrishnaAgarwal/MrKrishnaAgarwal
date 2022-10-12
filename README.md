@@ -334,9 +334,11 @@
 </summary>
 
   <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards</b></h2>
-<p align="left">
-<a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/Assets/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
-<a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="90" /></a>
+<p align="center">
+<a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/Assets/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
+<a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="120" /></a>
+
+<a href="https://novu.co/contributors/MrKrishnaAgarwal/"><img src="https://contributors.novu.co/profiles/MrKrishnaAgarwal-small.jpg" height="170" width="450" alt="krishna_agarwal" /></a>
 
 [![@mrkrishnaagarwal's Holopin board](https://holopin.io/api/user/board?user=mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
 
