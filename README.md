@@ -221,18 +221,18 @@
       <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sabin-Subedi">
-        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CharmingDev777">
         <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
       </a>
       <br />
       <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sabin-Subedi">
+        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ah-Gr">
