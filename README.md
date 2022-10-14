@@ -136,7 +136,10 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://mrkrishna.w3spaces.com)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats) 
+  
+  ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKrishnaAgarwal&theme=github_dark)
+
                                                                                                                                               
   ![Krishna's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=MrKrishnaAgarwal&theme=react-dark)                                                                                                                       
   
