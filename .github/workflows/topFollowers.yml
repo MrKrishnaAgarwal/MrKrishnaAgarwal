@@ -22,10 +22,10 @@ jobs:
         run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
       - name: Commit changes
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "100597998+MRKRISHNAAGARWAL@USERS.NOREPLY.GITHUB.COM"
+          git config --local user.name "MrKrishnaAgarwal[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Updated followers (🤖)"
+          git diff-index --quiet HEAD || git commit -sm "Updated Followers (🤖)"
       - name: Pull changes
         run: git pull -r
       - name: Push changes

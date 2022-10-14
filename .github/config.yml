@@ -20,3 +20,7 @@ lockThreads:
   setTimeInHours: 72
   replyComment: >
     This thread is being locked due to exceeding the toxicity minimums. cc/ @MrKrishnaAgarwal
+
+blankIssuesEnabled: false
+blankPRsEnabled: false
+deleteBranchOnMerge: true
