@@ -149,6 +149,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/HadesHappy">
+        <img src="https://avatars2.githubusercontent.com/u/108986787" width="100px;" alt="HadesHappy"/>
+      </a>
+      <br />
+      <a href="https://github.com/HadesHappy">HadesHappy</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kingRayhan">
         <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
       </a>
@@ -190,6 +197,8 @@
       <br />
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
         <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
@@ -197,8 +206,6 @@
       <br />
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
         <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
@@ -241,6 +248,8 @@
       <br />
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/01001101ilad">
         <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
@@ -248,8 +257,6 @@
       <br />
       <a href="https://github.com/01001101ilad">Milad</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/randhirshaw">
         <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
@@ -291,13 +298,6 @@
       </a>
       <br />
       <a href="https://github.com/Huluvu424242">Huluvu424242</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/volicar">
-        <img src="https://avatars2.githubusercontent.com/u/38734622" width="100px;" alt="volicar"/>
-      </a>
-      <br />
-      <a href="https://github.com/volicar">Vinícius Olicar</a>
     </td>
   </tr>
 </table>
