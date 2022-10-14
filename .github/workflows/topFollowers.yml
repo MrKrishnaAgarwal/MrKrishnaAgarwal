@@ -1,9 +1,9 @@
-name: Get Top Followers
+name: Get Krishna's Followers
 
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: "0 8 * * *"
 

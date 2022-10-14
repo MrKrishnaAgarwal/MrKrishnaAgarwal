@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: "0 8 * * *"
 
