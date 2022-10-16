@@ -238,18 +238,18 @@
       <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ah-Gr">
-        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Sabin-Subedi">
         <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
       </a>
       <br />
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ah-Gr">
+        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
   </tr>
   <tr>
