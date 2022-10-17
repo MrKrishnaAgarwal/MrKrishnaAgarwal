@@ -166,18 +166,18 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/horizenight">
-        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
-      </a>
-      <br />
-      <a href="https://github.com/horizenight">Kshitij roodkee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
       <br />
       <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/horizenight">
+        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
+      </a>
+      <br />
+      <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
       <a href="https://github.com/petprog">
@@ -217,11 +217,11 @@
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sanket1308">
-        <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="Sanket1308"/>
+      <a href="https://github.com/boradesanket13">
+        <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
       </a>
       <br />
-      <a href="https://github.com/Sanket1308">Sanket Borade</a>
+      <a href="https://github.com/boradesanket13">Sanket Borade</a>
     </td>
     <td align="center">
       <a href="https://github.com/antonekstrom1">
@@ -275,11 +275,11 @@
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vaneela">
-        <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
+      <a href="https://github.com/soumildatta">
+        <img src="https://avatars2.githubusercontent.com/u/35431692" width="100px;" alt="soumildatta"/>
       </a>
       <br />
-      <a href="https://github.com/vaneela">Vaneela Khatri</a>
+      <a href="https://github.com/soumildatta">Soumil Datta</a>
     </td>
     <td align="center">
       <a href="https://github.com/skylineaxilleas">
@@ -289,11 +289,11 @@
       <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/soumildatta">
-        <img src="https://avatars2.githubusercontent.com/u/35431692" width="100px;" alt="soumildatta"/>
+      <a href="https://github.com/vaneela">
+        <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
       </a>
       <br />
-      <a href="https://github.com/soumildatta">Soumil Datta</a>
+      <a href="https://github.com/vaneela">Vaneela Khatri</a>
     </td>
     <td align="center">
       <a href="https://github.com/Huluvu424242">
