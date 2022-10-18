@@ -159,6 +159,13 @@
       <a href="https://github.com/HadesHappy">HadesHappy</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sayed71">
+        <img src="https://avatars2.githubusercontent.com/u/83280369" width="100px;" alt="sayed71"/>
+      </a>
+      <br />
+      <a href="https://github.com/sayed71">Sayed Hossain</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kingRayhan">
         <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
       </a>
@@ -193,6 +200,8 @@
       <br />
       <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/muhammadanas0716">
         <img src="https://avatars2.githubusercontent.com/u/81016607" width="100px;" alt="muhammadanas0716"/>
@@ -200,8 +209,6 @@
       <br />
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
         <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
@@ -244,6 +251,8 @@
       <br />
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
@@ -251,8 +260,6 @@
       <br />
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/01001101ilad">
         <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
@@ -294,13 +301,6 @@
       </a>
       <br />
       <a href="https://github.com/vaneela">Vaneela Khatri</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Huluvu424242">
-        <img src="https://avatars2.githubusercontent.com/u/1297475" width="100px;" alt="Huluvu424242"/>
-      </a>
-      <br />
-      <a href="https://github.com/Huluvu424242">Huluvu424242</a>
     </td>
   </tr>
 </table>
