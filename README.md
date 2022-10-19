@@ -53,11 +53,11 @@
    <h3>:man_technologist:
  I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
 
- - <h4>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development</h4>
+ - <h4>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development.</h4>
 
-- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Google Cloud, MetaVerse and recent technologies.</h4>
+- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more.</h4>
 
-- <h4>📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.</h4>
+- <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4>
 
 - <h4>:mailbox:How to reach me: </h4>
 
@@ -329,14 +329,14 @@
   <details>   <summary> <h4 align="center"> Latest Tweets & Replies 📝</h4>
 </summary>
 
-  ## Latest Tweets
+  ## Latest Tweets 🐦
   ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)
  </details>
 
 <details>   <summary> <h4 align="center"> Honors and Awards 🎉 </h4>
 </summary>
 
-  <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards</b></h2>
+  <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards 🏅</b></h2>
 <p align="center">
 <a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/Assets/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
 <a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="120" /></a>
