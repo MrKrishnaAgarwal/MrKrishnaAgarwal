@@ -20,7 +20,25 @@ lockThreads:
   setTimeInHours: 72
   replyComment: >
     This thread is being locked due to exceeding the toxicity minimums. cc/ @MrKrishnaAgarwal
+  lockLabelToAdd: lock
 
 blank_issues_enabled: false
-blank_PRs_Enabled: false
-delete_Branch_OnMerge: true
+contact_links:
+  - name: 📝 Website
+    url: https://mrkrishna.me
+    about: Visit my website to learn more about me!
+
+  - name: 📧 Email  
+    url: mailto:dmkrishna.agarwal@gmail.com
+
+  - name: 🐦 Twitter
+    url: https://twitter.com/DMKrishnaA
+    about: Follow me on Twitter to get the latest updates!
+
+  - name: 📸 Dev.to
+    url: https://dev.to/krishnaagarwal
+    about: Follow me on Dev.to to see my latest posts!
+
+  - name: :octocat: GitHub
+    url: https://github.com/MrKrishnaAgarwal
+    about: Follow me on GitHub to view my latest projects!
