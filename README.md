@@ -187,18 +187,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/danielmonettelli">
         <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
       </a>
       <br />
       <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
   </tr>
   <tr>
@@ -217,13 +217,6 @@
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AnsonZnl">
-        <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
-      </a>
-      <br />
-      <a href="https://github.com/AnsonZnl">九旬</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/boradesanket13">
         <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
       </a>
@@ -231,11 +224,11 @@
       <a href="https://github.com/boradesanket13">Sanket Borade</a>
     </td>
     <td align="center">
-      <a href="https://github.com/antonekstrom1">
-        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
+      <a href="https://github.com/AnsonZnl">
+        <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
       </a>
       <br />
-      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
+      <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
     <td align="center">
       <a href="https://github.com/CharmingDev777">
@@ -243,6 +236,13 @@
       </a>
       <br />
       <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antonekstrom1">
+        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
+      </a>
+      <br />
+      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sabin-Subedi">
@@ -296,11 +296,11 @@
       <a href="https://github.com/skylineaxilleas">skylineaxilleas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vaneela">
-        <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
+      <a href="https://github.com/volicar">
+        <img src="https://avatars2.githubusercontent.com/u/38734622" width="100px;" alt="volicar"/>
       </a>
       <br />
-      <a href="https://github.com/vaneela">Vaneela Khatri</a>
+      <a href="https://github.com/volicar">Vinícius Olicar</a>
     </td>
   </tr>
 </table>
