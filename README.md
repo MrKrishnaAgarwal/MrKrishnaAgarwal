@@ -231,18 +231,18 @@
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CharmingDev777">
-        <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
-      </a>
-      <br />
-      <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/antonekstrom1">
         <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
       </a>
       <br />
       <a href="https://github.com/antonekstrom1">Anton Ekström</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CharmingDev777">
+        <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
+      </a>
+      <br />
+      <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sabin-Subedi">
