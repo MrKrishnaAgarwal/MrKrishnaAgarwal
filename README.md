@@ -350,7 +350,7 @@
 
 <br>
 
-<h2 align="center">Testimonials ✉</h2>
+<h2 align="center">Testimonials 📜</h2>
 
 <h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/MrKrishnaAgarwal/MrKrishnaAgarwal/discussions/2">here</a></b> and I'll add it!</h3>
 <br>
