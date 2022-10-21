@@ -140,9 +140,6 @@
 
   ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKrishnaAgarwal&theme=github_dark)
 
-
-  ![Krishna's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=MrKrishnaAgarwal&theme=react-dark)
-
  </details>
 
   <details>   <summary> <h4 align="center"> My Followers 👬</h4>
