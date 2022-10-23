@@ -50,8 +50,8 @@
 <div align="center">
 
 ## :man_technologist: About Me :
-   <h3>:man_technologist:
- I'm a < Explorer | Creator | Developer | Cloud Enthusiast /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
+   <h3>
+ I'm a - 💻Tech Passionate | 🚧 OpenSource Enthusiast | 🌍 Explorer | 👨‍💻 Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
 
  - <h4>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development.</h4>
 
