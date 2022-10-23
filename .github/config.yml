@@ -28,7 +28,7 @@ contact_links:
     url: https://mrkrishna.me
     about: Visit my website to learn more about me!
 
-  - name: 📧 Email  
+  - name: 📧 Email
     url: mailto:dmkrishna.agarwal@gmail.com
 
   - name: 🐦 Twitter
@@ -39,6 +39,6 @@ contact_links:
     url: https://dev.to/krishnaagarwal
     about: Follow me on Dev.to to see my latest posts!
 
-  - name: :octocat: GitHub
+  - name: 😺 GitHub
     url: https://github.com/MrKrishnaAgarwal
     about: Follow me on GitHub to view my latest projects!
