@@ -177,6 +177,13 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/CharmingDev777">
+        <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
+      </a>
+      <br />
+      <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
@@ -190,6 +197,8 @@
       <br />
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/muhammadanas0716">
         <img src="https://avatars2.githubusercontent.com/u/81016607" width="100px;" alt="muhammadanas0716"/>
@@ -197,8 +206,6 @@
       <br />
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/danielmonettelli">
         <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
@@ -212,13 +219,6 @@
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CharmingDev777">
-        <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
-      </a>
-      <br />
-      <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
@@ -272,6 +272,13 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shivani170">
+        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
+      </a>
+      <br />
+      <a href="https://github.com/shivani170">Shivani Bhatt</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/randhirshaw">
         <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
       </a>
@@ -284,13 +291,6 @@
       </a>
       <br />
       <a href="https://github.com/01001101ilad">Milad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shivani170">
-        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
-      </a>
-      <br />
-      <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
       <a href="https://github.com/irvanmoses">
