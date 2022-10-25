@@ -207,18 +207,18 @@
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/danielmonettelli">
-        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
-      </a>
-      <br />
-      <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielmonettelli">
+        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
+      </a>
+      <br />
+      <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
@@ -228,18 +228,18 @@
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AnsonZnl">
-        <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
-      </a>
-      <br />
-      <a href="https://github.com/AnsonZnl">九旬</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/boradesanket13">
         <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
       </a>
       <br />
       <a href="https://github.com/boradesanket13">Sanket Borade</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AnsonZnl">
+        <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
+      </a>
+      <br />
+      <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
@@ -279,18 +279,18 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/randhirshaw">
-        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
-      </a>
-      <br />
-      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/01001101ilad">
         <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
       </a>
       <br />
       <a href="https://github.com/01001101ilad">Milad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/randhirshaw">
+        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
+      </a>
+      <br />
+      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
     </td>
     <td align="center">
       <a href="https://github.com/irvanmoses">
