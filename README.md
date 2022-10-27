@@ -242,20 +242,20 @@
       <a href="https://github.com/boradesanket13">Sanket Borade</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HridoyHazard">
-        <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
-      </a>
-      <br />
-      <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/antonekstrom1">
         <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
       </a>
       <br />
       <a href="https://github.com/antonekstrom1">Anton Ekström</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HridoyHazard">
+        <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
+      </a>
+      <br />
+      <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
     </td>
     <td align="center">
       <a href="https://github.com/shivani170">
