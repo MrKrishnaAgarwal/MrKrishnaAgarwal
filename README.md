@@ -170,18 +170,18 @@
       <a href="https://github.com/sayed71">Sayed Hossain</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kingRayhan">
-        <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
-      </a>
-      <br />
-      <a href="https://github.com/kingRayhan">King Rayhan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CharmingDev777">
         <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
       </a>
       <br />
       <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kingRayhan">
+        <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
+      </a>
+      <br />
+      <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
       <a href="https://github.com/gambhirsharma">
@@ -228,13 +228,6 @@
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AnsonZnl">
-        <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
-      </a>
-      <br />
-      <a href="https://github.com/AnsonZnl">九旬</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/boradesanket13">
         <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
       </a>
@@ -242,20 +235,27 @@
       <a href="https://github.com/boradesanket13">Sanket Borade</a>
     </td>
     <td align="center">
-      <a href="https://github.com/antonekstrom1">
-        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
+      <a href="https://github.com/AnsonZnl">
+        <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
       </a>
       <br />
-      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
+      <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
       </a>
       <br />
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/antonekstrom1">
+        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
+      </a>
+      <br />
+      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
       <a href="https://github.com/shivani170">
