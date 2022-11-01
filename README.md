@@ -167,7 +167,7 @@
         <img src="https://avatars2.githubusercontent.com/u/83280369" width="100px;" alt="sayed71"/>
       </a>
       <br />
-      <a href="https://github.com/sayed71">Sayed Hossain</a>
+      <a href="https://github.com/sayed71">KAZI SAYED HOSSAIN</a>
     </td>
     <td align="center">
       <a href="https://github.com/CharmingDev777">
@@ -207,18 +207,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/danielmonettelli">
         <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
       </a>
       <br />
       <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
@@ -265,18 +265,18 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sabin-Subedi">
-        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
       </a>
       <br />
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sabin-Subedi">
+        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
     <td align="center">
       <a href="https://github.com/01001101ilad">
