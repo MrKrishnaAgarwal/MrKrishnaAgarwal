@@ -221,18 +221,18 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MELKHATEEB">
-        <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
-      </a>
-      <br />
-      <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/boradesanket13">
         <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
       </a>
       <br />
       <a href="https://github.com/boradesanket13">Sanket Borade</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MELKHATEEB">
+        <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
+      </a>
+      <br />
+      <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
@@ -265,18 +265,18 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ah-Gr">
-        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kevinorris">
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
       </a>
       <br />
       <a href="https://github.com/kevinorris">Kevinorris</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ah-Gr">
+        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sabin-Subedi">
