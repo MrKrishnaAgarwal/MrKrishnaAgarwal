@@ -53,7 +53,7 @@
    <h3>
  I'm a - 💻Tech Passionate | 🚧 OpenSource Enthusiast | 🌍 Explorer | 👨‍💻 Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
 
- - <h4>:telescope:I am passionate about technology, innovation and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development.</h4>
+ - <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development.</h4>
 
 - <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more.</h4>
 
@@ -316,7 +316,7 @@
 - [5 Google products that have been built for Developers &lpar;Part-1&rpar;](https://dev.to/krishnaagarwal/5-google-products-that-have-been-built-for-developers-part-1-2hm2)
 - [20 Git Commands Every Developer Should Know](https://dev.to/krishnaagarwal/20-git-commands-every-developer-should-know-27o7)
 - [Make Your VS Code Terminal Look Awesome](https://dev.to/krishnaagarwal/make-your-vs-code-terminal-look-awesome-2gnl)
-- [The Best Github Repos for Self-Taught](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
+- [The Best GitHub Repos for Self-Taught](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/krishnaagarwal)
