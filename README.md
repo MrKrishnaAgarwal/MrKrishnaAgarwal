@@ -338,7 +338,7 @@
 <a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/Assets/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
 <a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="120" /></a>
 
-<a href="https://novu.co/contributors/MrKrishnaAgarwal/"><img src="https://contributors.novu.co/profiles/MrKrishnaAgarwal-small.jpg" height="170" width="450" alt="Krishna's Novu Badges" /></a>
+<a href="https://novu.co/contributors/MrKrishnaAgarwal/"><img src="https://contributors.novu.co/profiles/MrKrishnaAgarwal-small.jpg" height="170" width="450" alt="" /></a>
 
 [![@mrkrishnaagarwal's Holopin board](https://holopin.io/api/user/board?user=mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
 
@@ -359,7 +359,7 @@
 
 <br>
 
- ## 🏆 Let's Connect & Thanks for reading till here!
+ ## 🏆 Let's Connect & Thanks for reading!
 
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
   </div>
