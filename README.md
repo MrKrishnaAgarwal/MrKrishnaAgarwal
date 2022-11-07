@@ -184,12 +184,21 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nathanssantos">
+        <img src="https://avatars2.githubusercontent.com/u/41328508" width="100px;" alt="nathanssantos"/>
+      </a>
+      <br />
+      <a href="https://github.com/nathanssantos">Nathan S. Santos</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
       <br />
       <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/muhammadanas0716">
         <img src="https://avatars2.githubusercontent.com/u/81016607" width="100px;" alt="muhammadanas0716"/>
@@ -197,8 +206,6 @@
       <br />
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/horizenight">
         <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
@@ -221,18 +228,18 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
-      <a href="https://github.com/boradesanket13">
-        <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
-      </a>
-      <br />
-      <a href="https://github.com/boradesanket13">Sanket Borade</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MELKHATEEB">
         <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
       </a>
       <br />
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/boradesanket13">
+        <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
+      </a>
+      <br />
+      <a href="https://github.com/boradesanket13">Sanket Borade</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
@@ -241,6 +248,8 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
@@ -248,8 +257,6 @@
       <br />
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/antonekstrom1">
         <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
@@ -291,13 +298,6 @@
       </a>
       <br />
       <a href="https://github.com/01001101ilad">Milad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/randhirshaw">
-        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
-      </a>
-      <br />
-      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
     </td>
   </tr>
 </table>
