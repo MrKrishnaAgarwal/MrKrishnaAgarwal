@@ -22,7 +22,7 @@ jobs:
         run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
       - name: Commit changes
         run: |
-          git config --local user.email "dmkrishna.agarwal@gmail.com"
+          git config --local user.email "100597998+mrkrishnaagarwal@users.noreply.github.com"
           git config --local user.name "MrKrishnaAgarwal[bot]"
           git add -A
           git diff-index --quiet HEAD || git commit -sm "Updated Followers (🤖)"
