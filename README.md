@@ -359,7 +359,7 @@
 
 <br>
 
- ## 🏆 Let's Connect & Thanks for reading!
+ ## 🏆 Let's Connect & Thanks for reading
 
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
   </div>
