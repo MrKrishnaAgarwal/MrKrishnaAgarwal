@@ -5,7 +5,7 @@ on:
  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
  update-readme-with-blog:
-  name: Update this repos README with latest blog posts
+  name: Update this repo with latest blog posts
   runs-on: ubuntu-latest
   steps:
    - name: Checkout
@@ -14,4 +14,4 @@ jobs:
      uses: gautamkrishnar/blog-post-workflow@master
      with:
       feed_list: "https://dev.to/feed/krishnaagarwal"
-      max_post_count: 10
+      max_post_count: 6
