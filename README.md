@@ -265,18 +265,18 @@
       <a href="https://github.com/kevinorris">Kevinorris</a>
     </td>
     <td align="center">
-      <a href="https://github.com/antonekstrom1">
-        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
-      </a>
-      <br />
-      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shivani170">
         <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
       </a>
       <br />
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antonekstrom1">
+        <img src="https://avatars2.githubusercontent.com/u/21105530" width="100px;" alt="antonekstrom1"/>
+      </a>
+      <br />
+      <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ah-Gr">
