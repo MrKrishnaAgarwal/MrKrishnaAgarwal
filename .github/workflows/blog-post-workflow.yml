@@ -15,9 +15,3 @@ jobs:
      with:
       feed_list: "https://dev.to/feed/krishnaagarwal"
       max_post_count: 6
-      template: "#### [{title}]({url}) - {date}"
-      sort: "desc"
-      comment: "true"
-      comment_tag: "<!-- BLOG-POST-LIST:START -->"
-      comment_end_tag: "<!-- BLOG-POST-LIST:END -->"
-      file_name: "README.md"
