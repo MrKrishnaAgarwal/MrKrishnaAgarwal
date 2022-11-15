@@ -5,8 +5,8 @@
 
 <div id="header" align="center">
   <h1>
-  Hey There I am Krishna
-  <img src=https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" height="50px" width="40px"/>
+  Hi there, I'm Krishna Agarwal
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
 </h1>
 
 <div id="header" align="center">
@@ -49,13 +49,13 @@
 
 <div align="center">
 
-## :man_technologist: About Me :
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
    <h3>
- I'm a - 💻Tech Passionate | 🚧 OpenSource Enthusiast | 🌍 Explorer | 👨‍💻 Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
+ 💻Tech Passionate | 🚧 OpenSource Enthusiast | 🌍 Explorer | 👨‍💻 Coder </h3> </div>
 
- - <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development.</h4>
+ - <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development, and Cyber Security. </h4>
 
-- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more.</h4>
+- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more. </h4>
 
 - <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4>
 
