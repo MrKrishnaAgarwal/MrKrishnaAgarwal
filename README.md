@@ -242,27 +242,27 @@
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kevinorris">
+        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
+      </a>
+      <br />
+      <a href="https://github.com/kevinorris">Kevinorris</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/AnsonZnl">
         <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
       </a>
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
       </a>
       <br />
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kevinorris">
-        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
-      </a>
-      <br />
-      <a href="https://github.com/kevinorris">Kevinorris</a>
     </td>
     <td align="center">
       <a href="https://github.com/shivani170">
