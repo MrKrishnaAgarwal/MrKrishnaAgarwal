@@ -228,6 +228,13 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kevinorris">
+        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
+      </a>
+      <br />
+      <a href="https://github.com/kevinorris">Kevinorris</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/boradesanket13">
         <img src="https://avatars2.githubusercontent.com/u/79108273" width="100px;" alt="boradesanket13"/>
       </a>
@@ -240,13 +247,6 @@
       </a>
       <br />
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kevinorris">
-        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
-      </a>
-      <br />
-      <a href="https://github.com/kevinorris">Kevinorris</a>
     </td>
   </tr>
   <tr>
