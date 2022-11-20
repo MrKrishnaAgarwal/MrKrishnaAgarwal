@@ -348,18 +348,6 @@
 
 <br>
 
-<h2 align="center">Testimonials 📜</h2>
-
-<h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/MrKrishnaAgarwal/MrKrishnaAgarwal/discussions/2">here</a></b> and I'll add it!</h3>
-<br>
-
-**[snowlyg](https://github.com/snowlyg): I like your profile very much.**
-<br>
-
-**[Yoga Prasetiyo](https://github.com/yogaxv): wow! good profile!**
-
-<br>
-
  ## 🏆 Let's Connect & Thanks for reading
 
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
