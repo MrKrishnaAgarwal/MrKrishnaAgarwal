@@ -214,6 +214,13 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kevinorris">
+        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
+      </a>
+      <br />
+      <a href="https://github.com/kevinorris">Kevinorris</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/danielmonettelli">
         <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
       </a>
@@ -226,13 +233,6 @@
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kevinorris">
-        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
-      </a>
-      <br />
-      <a href="https://github.com/kevinorris">Kevinorris</a>
     </td>
     <td align="center">
       <a href="https://github.com/boradesanket13">
