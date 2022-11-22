@@ -207,18 +207,18 @@
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/horizenight">
-        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
-      </a>
-      <br />
-      <a href="https://github.com/horizenight">Kshitij roodkee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kevinorris">
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
       </a>
       <br />
       <a href="https://github.com/kevinorris">Kevinorris</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/horizenight">
+        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
+      </a>
+      <br />
+      <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
       <a href="https://github.com/danielmonettelli">
