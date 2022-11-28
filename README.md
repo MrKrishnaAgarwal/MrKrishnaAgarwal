@@ -132,9 +132,9 @@
 ## :fire: My Stats :
    <a href="https://github.com/MrKrishnaAgarwal"><img src="https://img.shields.io/github/followers/MrKrishnaAgarwal?label=follow&style=social"/>
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=great-gatsby)
+  ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=great-gatsby)
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://mrkrishna.w3spaces.com)
-
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
 
