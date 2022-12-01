@@ -200,18 +200,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/gambhirsharma">
-        <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
-      </a>
-      <br />
-      <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kevinorris">
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="kevinorris"/>
       </a>
       <br />
       <a href="https://github.com/kevinorris">Kevinorris</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gambhirsharma">
+        <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
+      </a>
+      <br />
+      <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
     </td>
     <td align="center">
       <a href="https://github.com/muhammadanas0716">
