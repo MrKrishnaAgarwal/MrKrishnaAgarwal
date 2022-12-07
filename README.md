@@ -1,7 +1,6 @@
 <!--- Start Profile README --->
 
 <div align="center">
-<img src = "https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
 
 <div id="header" align="center">
   <h1>
@@ -10,7 +9,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f2r5ppn363adydh45uzlrokh9lba1yi9eu6wpuwg&rid=giphy.gif&ct=g" width="325"/>
 </div> <br>
 
 <div id="header" align="center">
@@ -42,7 +41,7 @@
   </div>
   <br>
 <div align="center">
-  <img src="Assets/Welcome To @MrKrishnaAgarwal (1).gif" height="400"/>
+  <img src="https://media4.giphy.com/media/0KCNlDW2Xt6GDzGkLv/giphy.gif?cid=790b7611b32ac146fe8b3e265aaff944182f90697991567f&rid=giphy.gif&ct=g" height="400"/>
 </div>
   </div>
 
@@ -334,9 +333,11 @@
 <details>   <summary> <h4 align="center"> Honors and Awards 🎉 </h4>
 </summary>
 
-  <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards 🏅</b></h2>
+  <h2 style = font-size: "50px" align="left"><img src="https://media2.giphy.com/media/Q5WsUAgr1kiBXWt2Bv/giphy.webp?cid=ecf05e47oenwm9szsc45lgwrwm5i1kebp67muicx4lt2qnn4&rid=giphy.webp&ct=s" width="30" align="left"/>&nbsp <b>Honors & awards 🏅</b></h2>
+
 <p align="center">
-<a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/Assets/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
+
+<a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
 <a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="120" /></a>
 
 <a href="https://novu.co/contributors/MrKrishnaAgarwal/"><img src="https://contributors.novu.co/profiles/MrKrishnaAgarwal-small.jpg" height="170" width="450" alt="" /></a>
@@ -355,7 +356,7 @@
 
   <div align="center">
 
-  <h4 class="credit"><b>Designed & Developed with <img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/red-heart.gif" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
+  <h4 class="credit"><b>Designed & Developed with <img src="https://clipart.info/images/ccovers/1580997453Heart-Red-Transparent-Clip-Art-Image.png" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
   </div>
 </h4>
 
