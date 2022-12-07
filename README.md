@@ -41,14 +41,14 @@
   </div>
   <br>
 <div align="center">
-  <img src="https://media4.giphy.com/media/0KCNlDW2Xt6GDzGkLv/giphy.gif?cid=790b7611b32ac146fe8b3e265aaff944182f90697991567f&rid=giphy.gif&ct=g" height="400"/>
+  <img src="https://media4.giphy.com/media/0KCNlDW2Xt6GDzGkLv/giphy.gif?cid=790b7611b32ac146fe8b3e265aaff944182f90697991567f&rid=giphy.gif&ct=g" height="4011"/>
 </div>
   </div>
 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me:
    <h3>
  💻Tech Passionate | 🚧 OpenSource Enthusiast | 🌍 Explorer | 👨‍💻 Coder </h3> </div>
 
