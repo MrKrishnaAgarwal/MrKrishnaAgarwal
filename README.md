@@ -1,7 +1,5 @@
 <!--- Start Profile README --->
 
-<div align="center">
-
 <div id="header" align="center">
   <h1>
   Hi there, I'm Krishna Agarwal
@@ -9,7 +7,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f2r5ppn363adydh45uzlrokh9lba1yi9eu6wpuwg&rid=giphy.gif&ct=g" width="325"/>
+  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f2r5ppn363adydh45uzlrokh9lba1yi9eu6wpuwg&rid=giphy.gif&ct=g" width="350"/>
 </div> <br>
 
 <div id="header" align="center">
@@ -41,7 +39,7 @@
   </div>
   <br>
 <div align="center">
-  <img src="https://media4.giphy.com/media/0KCNlDW2Xt6GDzGkLv/giphy.gif?cid=790b7611b32ac146fe8b3e265aaff944182f90697991567f&rid=giphy.gif&ct=g" height="4011"/>
+  <img src="https://media4.giphy.com/media/0KCNlDW2Xt6GDzGkLv/giphy.gif" height="400"/>
 </div>
   </div>
 
@@ -333,7 +331,7 @@
 <details>   <summary> <h4 align="center"> Honors and Awards 🎉 </h4>
 </summary>
 
-  <h2 style = font-size: "50px" align="left"><img src="https://media2.giphy.com/media/Q5WsUAgr1kiBXWt2Bv/giphy.webp?cid=ecf05e47oenwm9szsc45lgwrwm5i1kebp67muicx4lt2qnn4&rid=giphy.webp&ct=s" width="30" align="left"/>&nbsp <b>Honors & awards 🏅</b></h2>
+  <h2 style = font-size: "50px" align="center"><b>Honors & awards 🏅</b></h2>
 
 <p align="center">
 
