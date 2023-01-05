@@ -184,18 +184,18 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kishanrajput23">
-        <img src="https://avatars2.githubusercontent.com/u/70385488" width="100px;" alt="kishanrajput23"/>
-      </a>
-      <br />
-      <a href="https://github.com/kishanrajput23">Kishan Kumar Rai</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ProFullStackDev">
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
       </a>
       <br />
       <a href="https://github.com/ProFullStackDev">Creative and Passionate</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kishanrajput23">
+        <img src="https://avatars2.githubusercontent.com/u/70385488" width="100px;" alt="kishanrajput23"/>
+      </a>
+      <br />
+      <a href="https://github.com/kishanrajput23">Kishan Kumar Rai</a>
     </td>
   </tr>
   <tr>
