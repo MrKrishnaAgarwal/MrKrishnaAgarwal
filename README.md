@@ -279,18 +279,18 @@
       <a href="https://github.com/antonekstrom1">Anton Ekström</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ah-Gr">
-        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/happydev0105">
         <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
       </a>
       <br />
       <a href="https://github.com/happydev0105">happydev0105</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ah-Gr">
+        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
       <a href="https://github.com/01001101ilad">
