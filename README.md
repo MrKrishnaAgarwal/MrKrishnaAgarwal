@@ -258,18 +258,18 @@
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shivani170">
-        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
-      </a>
-      <br />
-      <a href="https://github.com/shivani170">Shivani Bhatt</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
       </a>
       <br />
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shivani170">
+        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
+      </a>
+      <br />
+      <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
       <a href="https://github.com/antonekstrom1">
