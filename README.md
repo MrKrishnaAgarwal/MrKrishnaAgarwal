@@ -228,13 +228,6 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/danielmonettelli">
-        <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danielmonettelli"/>
-      </a>
-      <br />
-      <a href="https://github.com/danielmonettelli">Daniel Monettelli</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
@@ -248,8 +241,6 @@
       <br />
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
         <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
@@ -257,6 +248,8 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shivani170">
         <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
@@ -298,6 +291,13 @@
       </a>
       <br />
       <a href="https://github.com/randhirshaw">Randhir Shaw</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sabin-Subedi">
+        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
   </tr>
 </table>
