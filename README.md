@@ -191,21 +191,14 @@
       <a href="https://github.com/ProFullStackDev">Creative and Passionate</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kishanrajput23">
-        <img src="https://avatars2.githubusercontent.com/u/70385488" width="100px;" alt="kishanrajput23"/>
-      </a>
-      <br />
-      <a href="https://github.com/kishanrajput23">Kishan Kumar Rai</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/nathanssantos">
         <img src="https://avatars2.githubusercontent.com/u/41328508" width="100px;" alt="nathanssantos"/>
       </a>
       <br />
       <a href="https://github.com/nathanssantos">Nathan S. Santos</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/gambhirsharma">
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
@@ -248,8 +241,6 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shivani170">
         <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
@@ -257,6 +248,8 @@
       <br />
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
@@ -286,6 +279,13 @@
       <a href="https://github.com/01001101ilad">Milad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Sabin-Subedi">
+        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/randhirshaw">
         <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
       </a>
@@ -293,11 +293,11 @@
       <a href="https://github.com/randhirshaw">Randhir Shaw</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sabin-Subedi">
-        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      <a href="https://github.com/irvanmoses">
+        <img src="https://avatars2.githubusercontent.com/u/74028306" width="100px;" alt="irvanmoses"/>
       </a>
       <br />
-      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
+      <a href="https://github.com/irvanmoses">Irvan Moses</a>
     </td>
   </tr>
 </table>
