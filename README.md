@@ -279,13 +279,6 @@
       <a href="https://github.com/01001101ilad">Milad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/randhirshaw">
-        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
-      </a>
-      <br />
-      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/irvanmoses">
         <img src="https://avatars2.githubusercontent.com/u/74028306" width="100px;" alt="irvanmoses"/>
       </a>
@@ -298,6 +291,13 @@
       </a>
       <br />
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/randhirshaw">
+        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
+      </a>
+      <br />
+      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
     </td>
   </tr>
 </table>
