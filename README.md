@@ -265,6 +265,13 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Sabin-Subedi">
+        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
       </a>
@@ -284,13 +291,6 @@
       </a>
       <br />
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sabin-Subedi">
-        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
     <td align="center">
       <a href="https://github.com/randhirshaw">
