@@ -228,18 +228,18 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
-      <a href="https://github.com/happydev0105">
-        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
-      </a>
-      <br />
-      <a href="https://github.com/happydev0105">Rudi Carl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MELKHATEEB">
         <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
       </a>
       <br />
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/happydev0105">
+        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
+      </a>
+      <br />
+      <a href="https://github.com/happydev0105">Rudi Carl</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
@@ -286,18 +286,18 @@
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mithindev">
+        <img src="https://avatars2.githubusercontent.com/u/109973775" width="100px;" alt="mithindev"/>
+      </a>
+      <br />
+      <a href="https://github.com/mithindev">MITHIN DEV </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/irvanmoses">
         <img src="https://avatars2.githubusercontent.com/u/74028306" width="100px;" alt="irvanmoses"/>
       </a>
       <br />
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/randhirshaw">
-        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
-      </a>
-      <br />
-      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
     </td>
   </tr>
 </table>
