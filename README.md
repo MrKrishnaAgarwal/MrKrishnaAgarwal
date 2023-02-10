@@ -160,7 +160,7 @@
         <img src="https://avatars2.githubusercontent.com/u/108986787" width="100px;" alt="HadesHappy"/>
       </a>
       <br />
-      <a href="https://github.com/HadesHappy">HadesHappy</a>
+      <a href="https://github.com/HadesHappy">Andrew Osborne</a>
     </td>
     <td align="center">
       <a href="https://github.com/sayed71">
@@ -228,18 +228,18 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
-      <a href="https://github.com/happydev0105">
-        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
-      </a>
-      <br />
-      <a href="https://github.com/happydev0105">Rudi Carl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MELKHATEEB">
         <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
       </a>
       <br />
       <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/happydev0105">
+        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
+      </a>
+      <br />
+      <a href="https://github.com/happydev0105">Rudi Carl</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
@@ -265,13 +265,6 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/01001101ilad">
-        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
-      </a>
-      <br />
-      <a href="https://github.com/01001101ilad">Milad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mithindev">
         <img src="https://avatars2.githubusercontent.com/u/109973775" width="100px;" alt="mithindev"/>
       </a>
@@ -279,18 +272,25 @@
       <a href="https://github.com/mithindev">MITHIN DEV </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sabin-Subedi">
-        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
       </a>
       <br />
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/01001101ilad">
+        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
+      </a>
+      <br />
+      <a href="https://github.com/01001101ilad">Milad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sabin-Subedi">
+        <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
     <td align="center">
       <a href="https://github.com/irvanmoses">
