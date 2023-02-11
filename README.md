@@ -160,7 +160,7 @@
         <img src="https://avatars2.githubusercontent.com/u/108986787" width="100px;" alt="HadesHappy"/>
       </a>
       <br />
-      <a href="https://github.com/HadesHappy">Andrew Osborne</a>
+      <a href="https://github.com/HadesHappy">Adrian Miller</a>
     </td>
     <td align="center">
       <a href="https://github.com/sayed71">
@@ -265,13 +265,6 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mithindev">
-        <img src="https://avatars2.githubusercontent.com/u/109973775" width="100px;" alt="mithindev"/>
-      </a>
-      <br />
-      <a href="https://github.com/mithindev">MITHIN DEV </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
       </a>
@@ -298,6 +291,13 @@
       </a>
       <br />
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/randhirshaw">
+        <img src="https://avatars2.githubusercontent.com/u/86173761" width="100px;" alt="randhirshaw"/>
+      </a>
+      <br />
+      <a href="https://github.com/randhirshaw">Randhir Shaw</a>
     </td>
   </tr>
 </table>
