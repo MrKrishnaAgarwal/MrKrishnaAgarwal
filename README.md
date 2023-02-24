@@ -251,13 +251,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/shivani170">
-        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
-      </a>
-      <br />
-      <a href="https://github.com/shivani170">Shivani Bhatt</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
       </a>
@@ -265,18 +258,18 @@
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shivani170">
+        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
+      </a>
+      <br />
+      <a href="https://github.com/shivani170">Shivani Bhatt</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sabin-Subedi">
         <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
       </a>
       <br />
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ah-Gr">
-        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
       <a href="https://github.com/01001101ilad">
@@ -291,6 +284,13 @@
       </a>
       <br />
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ah-Gr">
+        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
     <td align="center">
       <a href="https://github.com/randhirshaw">
