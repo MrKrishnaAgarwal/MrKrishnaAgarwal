@@ -221,18 +221,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/happydev0105">
         <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
       </a>
       <br />
       <a href="https://github.com/happydev0105">Rudi Carl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
