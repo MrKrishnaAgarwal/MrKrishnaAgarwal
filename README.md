@@ -221,18 +221,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/happydev0105">
-        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
-      </a>
-      <br />
-      <a href="https://github.com/happydev0105">Rudi Carl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
       <br />
       <a href="https://github.com/petprog">FARINU TAIWO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/happydev0105">
+        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
+      </a>
+      <br />
+      <a href="https://github.com/happydev0105">Rudi Carl</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
@@ -265,18 +265,18 @@
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
     </td>
     <td align="center">
-      <a href="https://github.com/01001101ilad">
-        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
-      </a>
-      <br />
-      <a href="https://github.com/01001101ilad">Milad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Sabin-Subedi">
         <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
       </a>
       <br />
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/01001101ilad">
+        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
+      </a>
+      <br />
+      <a href="https://github.com/01001101ilad">Milad</a>
     </td>
     <td align="center">
       <a href="https://github.com/irvanmoses">
