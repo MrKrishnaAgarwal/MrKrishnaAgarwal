@@ -221,18 +221,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/happydev0105">
         <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
       </a>
       <br />
       <a href="https://github.com/happydev0105">Rudi Carl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
@@ -251,18 +251,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/shivani170">
-        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
-      </a>
-      <br />
-      <a href="https://github.com/shivani170">Shivani Bhatt</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
       </a>
       <br />
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shivani170">
+        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
+      </a>
+      <br />
+      <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sabin-Subedi">
