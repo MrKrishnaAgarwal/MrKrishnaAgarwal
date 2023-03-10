@@ -272,13 +272,6 @@
       <a href="https://github.com/Sabin-Subedi">Sabin Subedi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/01001101ilad">
-        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
-      </a>
-      <br />
-      <a href="https://github.com/01001101ilad">Milad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/irvanmoses">
         <img src="https://avatars2.githubusercontent.com/u/74028306" width="100px;" alt="irvanmoses"/>
       </a>
@@ -286,11 +279,11 @@
       <a href="https://github.com/irvanmoses">Irvan Moses</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ah-Gr">
-        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      <a href="https://github.com/01001101ilad">
+        <img src="https://avatars2.githubusercontent.com/u/23176178" width="100px;" alt="01001101ilad"/>
       </a>
       <br />
-      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
+      <a href="https://github.com/01001101ilad">Milad</a>
     </td>
     <td align="center">
       <a href="https://github.com/randhirshaw">
@@ -298,6 +291,13 @@
       </a>
       <br />
       <a href="https://github.com/randhirshaw">Randhir Shaw</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ah-Gr">
+        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
   </tr>
 </table>
