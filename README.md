@@ -138,7 +138,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
 
-  ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKrishnaAgarwal&theme=github_dark)
+  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKrishnaAgarwal&theme=github_dark)
 
  </details>
 
