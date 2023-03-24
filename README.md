@@ -225,7 +225,7 @@
         <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
       </a>
       <br />
-      <a href="https://github.com/happydev0105">Rudi Carl</a>
+      <a href="https://github.com/happydev0105">Christmann Hugo</a>
     </td>
     <td align="center">
       <a href="https://github.com/petprog">
@@ -265,6 +265,13 @@
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ehsanmorgan">
+        <img src="https://avatars2.githubusercontent.com/u/113777394" width="100px;" alt="ehsanmorgan"/>
+      </a>
+      <br />
+      <a href="https://github.com/ehsanmorgan">Ehsan Morgan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sabin-Subedi">
         <img src="https://avatars2.githubusercontent.com/u/69413078" width="100px;" alt="Sabin-Subedi"/>
       </a>
@@ -291,13 +298,6 @@
       </a>
       <br />
       <a href="https://github.com/randhirshaw">Randhir Shaw</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ah-Gr">
-        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
   </tr>
 </table>
