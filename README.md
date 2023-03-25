@@ -221,13 +221,6 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/happydev0105">
-        <img src="https://avatars2.githubusercontent.com/u/119902600" width="100px;" alt="happydev0105"/>
-      </a>
-      <br />
-      <a href="https://github.com/happydev0105">Christmann Hugo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petprog">
         <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
       </a>
@@ -248,8 +241,6 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
@@ -257,6 +248,8 @@
       <br />
       <a href="https://github.com/HridoyHazard">Shahadat Hossain Hridoy Al</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shivani170">
         <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
@@ -298,6 +291,13 @@
       </a>
       <br />
       <a href="https://github.com/randhirshaw">Randhir Shaw</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ah-Gr">
+        <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
   </tr>
 </table>
