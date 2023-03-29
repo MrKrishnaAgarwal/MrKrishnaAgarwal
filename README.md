@@ -251,18 +251,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/shivani170">
-        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
-      </a>
-      <br />
-      <a href="https://github.com/shivani170">Shivani Bhatt</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ehsanmorgan">
         <img src="https://avatars2.githubusercontent.com/u/113777394" width="100px;" alt="ehsanmorgan"/>
       </a>
       <br />
       <a href="https://github.com/ehsanmorgan">Ehsan Morgan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shivani170">
+        <img src="https://avatars2.githubusercontent.com/u/61836271" width="100px;" alt="shivani170"/>
+      </a>
+      <br />
+      <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sabin-Subedi">
