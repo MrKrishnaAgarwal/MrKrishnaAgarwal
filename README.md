@@ -228,18 +228,18 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MELKHATEEB">
-        <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
-      </a>
-      <br />
-      <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ehsanmorgan">
         <img src="https://avatars2.githubusercontent.com/u/113777394" width="100px;" alt="ehsanmorgan"/>
       </a>
       <br />
       <a href="https://github.com/ehsanmorgan">Ehsan Morgan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MELKHATEEB">
+        <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
+      </a>
+      <br />
+      <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
     </td>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
