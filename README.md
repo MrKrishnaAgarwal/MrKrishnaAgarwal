@@ -221,18 +221,18 @@
       <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petprog">
-        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
-      </a>
-      <br />
-      <a href="https://github.com/petprog">FARINU TAIWO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ehsanmorgan">
         <img src="https://avatars2.githubusercontent.com/u/113777394" width="100px;" alt="ehsanmorgan"/>
       </a>
       <br />
       <a href="https://github.com/ehsanmorgan">Ehsan Morgan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petprog">
+        <img src="https://avatars2.githubusercontent.com/u/42515318" width="100px;" alt="petprog"/>
+      </a>
+      <br />
+      <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
       <a href="https://github.com/MELKHATEEB">
