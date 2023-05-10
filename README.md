@@ -214,18 +214,18 @@
       <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
     </td>
     <td align="center">
-      <a href="https://github.com/horizenight">
-        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
-      </a>
-      <br />
-      <a href="https://github.com/horizenight">Kshitij roodkee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ehsanmorgan">
         <img src="https://avatars2.githubusercontent.com/u/113777394" width="100px;" alt="ehsanmorgan"/>
       </a>
       <br />
       <a href="https://github.com/ehsanmorgan">Ehsan Morgan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/horizenight">
+        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
+      </a>
+      <br />
+      <a href="https://github.com/horizenight">Kshitij roodkee</a>
     </td>
     <td align="center">
       <a href="https://github.com/petprog">
