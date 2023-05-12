@@ -188,7 +188,7 @@
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
       </a>
       <br />
-      <a href="https://github.com/ProFullStackDev">Adam Greenough</a>
+      <a href="https://github.com/ProFullStackDev">Creative and Passionate</a>
     </td>
     <td align="center">
       <a href="https://github.com/nathanssantos">
