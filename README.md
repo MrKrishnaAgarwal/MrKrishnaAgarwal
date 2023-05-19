@@ -188,7 +188,7 @@
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
       </a>
       <br />
-      <a href="https://github.com/ProFullStackDev">Creative and Passionate</a>
+      <a href="https://github.com/ProFullStackDev">Kevin Norris</a>
     </td>
     <td align="center">
       <a href="https://github.com/nathanssantos">
@@ -211,7 +211,7 @@
         <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
       </a>
       <br />
-      <a href="https://github.com/gambhirsharma">Gambhir Sharma</a>
+      <a href="https://github.com/gambhirsharma">Gambhir ⚡</a>
     </td>
     <td align="center">
       <a href="https://github.com/ehsanmorgan">
