@@ -174,7 +174,7 @@
         <img src="https://avatars2.githubusercontent.com/u/112341300" width="100px;" alt="CharmingDev777"/>
       </a>
       <br />
-      <a href="https://github.com/CharmingDev777">Web & Mobile | eCommerce | Full-Stack Developer</a>
+      <a href="https://github.com/CharmingDev777">Charming</a>
     </td>
     <td align="center">
       <a href="https://github.com/kingRayhan">
@@ -188,7 +188,7 @@
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
       </a>
       <br />
-      <a href="https://github.com/ProFullStackDev">Kevin Norris</a>
+      <a href="https://github.com/ProFullStackDev">Daniel</a>
     </td>
     <td align="center">
       <a href="https://github.com/nathanssantos">
