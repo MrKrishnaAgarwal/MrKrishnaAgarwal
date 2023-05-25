@@ -177,18 +177,18 @@
       <a href="https://github.com/CharmingDev777">Charming</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kingRayhan">
-        <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
-      </a>
-      <br />
-      <a href="https://github.com/kingRayhan">King Rayhan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ProFullStackDev">
         <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
       </a>
       <br />
       <a href="https://github.com/ProFullStackDev">Daniel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kingRayhan">
+        <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
+      </a>
+      <br />
+      <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
       <a href="https://github.com/nathanssantos">
@@ -205,13 +205,6 @@
       </a>
       <br />
       <a href="https://github.com/muhammadanas0716">Muhammad Anas</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gambhirsharma">
-        <img src="https://avatars2.githubusercontent.com/u/69895353" width="100px;" alt="gambhirsharma"/>
-      </a>
-      <br />
-      <a href="https://github.com/gambhirsharma">Gambhir ⚡</a>
     </td>
     <td align="center">
       <a href="https://github.com/ehsanmorgan">
@@ -248,8 +241,6 @@
       <br />
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
         <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
@@ -257,6 +248,8 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
@@ -298,6 +291,13 @@
       </a>
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vaneela">
+        <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
+      </a>
+      <br />
+      <a href="https://github.com/vaneela">Vaneela Khatri</a>
     </td>
   </tr>
 </table>
