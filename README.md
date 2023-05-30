@@ -232,7 +232,7 @@
         <img src="https://avatars2.githubusercontent.com/u/16623386" width="100px;" alt="MELKHATEEB"/>
       </a>
       <br />
-      <a href="https://github.com/MELKHATEEB">Muhammad ELKHATEEB</a>
+      <a href="https://github.com/MELKHATEEB">Muhammad Elkhateeb</a>
     </td>
     <td align="center">
       <a href="https://github.com/shivani170">
