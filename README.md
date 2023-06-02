@@ -191,14 +191,21 @@
       <a href="https://github.com/kingRayhan">King Rayhan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hit-dev07">
+        <img src="https://avatars2.githubusercontent.com/u/131217149" width="100px;" alt="hit-dev07"/>
+      </a>
+      <br />
+      <a href="https://github.com/hit-dev07">Hit Dev</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/nathanssantos">
         <img src="https://avatars2.githubusercontent.com/u/41328508" width="100px;" alt="nathanssantos"/>
       </a>
       <br />
       <a href="https://github.com/nathanssantos">Nathan S. Santos</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/muhammadanas0716">
         <img src="https://avatars2.githubusercontent.com/u/81016607" width="100px;" alt="muhammadanas0716"/>
@@ -241,6 +248,8 @@
       <br />
       <a href="https://github.com/shivani170">Shivani Bhatt</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AnsonZnl">
         <img src="https://avatars2.githubusercontent.com/u/29278068" width="100px;" alt="AnsonZnl"/>
@@ -248,8 +257,6 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
@@ -291,13 +298,6 @@
       </a>
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vaneela">
-        <img src="https://avatars2.githubusercontent.com/u/91223701" width="100px;" alt="vaneela"/>
-      </a>
-      <br />
-      <a href="https://github.com/vaneela">Vaneela Khatri</a>
     </td>
   </tr>
 </table>
