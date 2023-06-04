@@ -177,18 +177,18 @@
       <a href="https://github.com/CharmingDev777">Charming</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ProFullStackDev">
-        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/ProFullStackDev">Daniel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kingRayhan">
         <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
       </a>
       <br />
       <a href="https://github.com/kingRayhan">King Rayhan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ProFullStackDev">
+        <img src="https://avatars2.githubusercontent.com/u/116855918" width="100px;" alt="ProFullStackDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/ProFullStackDev">Daniel</a>
     </td>
     <td align="center">
       <a href="https://github.com/hit-dev07">
