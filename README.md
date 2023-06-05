@@ -177,6 +177,13 @@
       <a href="https://github.com/CharmingDev777">Charming</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hit-dev07">
+        <img src="https://avatars2.githubusercontent.com/u/131217149" width="100px;" alt="hit-dev07"/>
+      </a>
+      <br />
+      <a href="https://github.com/hit-dev07">Hit Dev</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kingRayhan">
         <img src="https://avatars2.githubusercontent.com/u/7611746" width="100px;" alt="kingRayhan"/>
       </a>
@@ -189,13 +196,6 @@
       </a>
       <br />
       <a href="https://github.com/ProFullStackDev">Daniel</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hit-dev07">
-        <img src="https://avatars2.githubusercontent.com/u/131217149" width="100px;" alt="hit-dev07"/>
-      </a>
-      <br />
-      <a href="https://github.com/hit-dev07">Hit Dev</a>
     </td>
   </tr>
   <tr>
