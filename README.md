@@ -77,7 +77,6 @@
       <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-      <img alt="Json" src="https://img.shields.io/badge/Json%20-%232370ED.svg?logo=Json&logoColor=grey"></a>
       <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
   </h3>
@@ -86,7 +85,6 @@
   <h5 align="center"> 🧰 Frameworks and libraries </h5>
   <h3 align="center">
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
       <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
   </h3>
@@ -95,13 +93,10 @@
   <h5 align="center"> 🗄️ Databases and cloud hosting </h5>
   <h3 align="center">
       <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
       <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>
       <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23430098.svg?logo=firebase&logoColor=white"></a>
-      <img alt="Docker" src ="https://img.shields.io/badge/Docker%20-%23FF0000.svg?logo=docker&logoColor=white"></a>
       <img alt="Azure" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoftazure&logoColor=white"></a>
-      <img alt="Amazon" src="https://img.shields.io/badge/AWS-%2300f.svg?logo=amazon&logoColor=white"></a>
       <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%2320232a.svg?logo=Kubernetes&logoColor=%2361DAFB"></a>
 
   </h3>
@@ -113,8 +108,6 @@
    <h3 align="center">
      <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
      <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
      <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
      <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
