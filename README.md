@@ -305,12 +305,12 @@
    <h4 align="left">
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a chatbot in PictoBlox](https://dev.to/krishnaagarwal/making-a-chatbot-in-pictoblox-123f)
 - [Git and GitHub for Beginners](https://dev.to/krishnaagarwal/git-and-github-for-beginners-3ino)
 - [Thank You DEV 😊](https://dev.to/krishnaagarwal/thank-you-dev-3pfo)
 - [5 Google products that have been built for Developers &lpar;Part-1&rpar;](https://dev.to/krishnaagarwal/5-google-products-that-have-been-built-for-developers-part-1-2hm2)
 - [20 Git Commands Every Developer Should Know](https://dev.to/krishnaagarwal/20-git-commands-every-developer-should-know-27o7)
 - [Make Your VS Code Terminal Look Awesome](https://dev.to/krishnaagarwal/make-your-vs-code-terminal-look-awesome-2gnl)
-- [The Best GitHub Repos for Self-Taught](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/krishnaagarwal)
