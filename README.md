@@ -61,6 +61,7 @@
 
 - <h4>:mailbox:How to reach me: </h4>
 
+**You can reach me via Social Media or**
 <a herf= "mailto:dmkrishna.agarwal@gmail.com"> **Email:** dmkrishna.agarwal@gmail.com </a>
 
 <div align="center">
@@ -317,24 +318,18 @@
 </details>
 </h4>
 
-  <details>   <summary> <h4 align="center"> Latest Tweets & Replies 📝</h4>
-</summary>
-
-  ## Latest Tweets 🐦
-  ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DMKrishnaA)
- </details>
-
 <details>   <summary> <h4 align="center"> Honors and Awards 🎉 </h4>
 </summary>
 
   <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards 🏅</b></h2>
 <p align="center">
-<a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/main/Assets/microsoft-certified-azure-ai-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
-<a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://appwrite.io/cards/makers/MrKrishnaAgarwal"  alt="MrKrishnaAgarwal's Maker Card" width="120" /></a>
+<a href="https://www.credly.com/badges/4c3e0c5c-e680-4729-984d-1947c2df7ece" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1048479953592795156/1160896183041011764/microsoft-certified-azure-ai-fundamentals.png?ex=653653d2&is=6523ded2&hm=6da8306dd368e015218a27d65513902d820032d30675e62c8101cbb60515d89c&=&width=580&height=580"  alt="microsoft-certified-azure-fundamental" width="120" /></a>
+<a href="https://makers.appwrite.io/MrKrishnaAgarwal" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1048479953592795156/1160896830746411008/Appwrite_Maker_Card.png?ex=6536546c&is=6523df6c&hm=c6bd7ec06292ddb32105da6bd94d5ab1977e37887038ecbae1b8ec9c98097ff6&=&width=900&height=546"  alt="MrKrishnaAgarwal's Maker Card" width="120" /></a>
 
 <a href="https://novu.co/contributors/MrKrishnaAgarwal/"><img src="https://contributors.novu.co/profiles/MrKrishnaAgarwal-small.jpg" height="170" width="450" alt="" /></a>
 
-[![@MrKrishnaAgarwal's Holopin board](https://holopin.io/api/user/board?user=mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
+[![An image of @mrkrishnaagarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
+
 
 </p>
  </details>
@@ -348,9 +343,10 @@
 
   <div align="center">
 
-  <h4 class="credit"><b>Designed & Developed with <img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/red-heart.gif" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
+  <img class="credit"><b>Designed & Developed with <img src="https://cdn.discordapp.com/attachments/1048479953592795156/1160898238107361280/d3exa79-490266e4-bda5-4d95-88a1-9567fab7970b.gif?ex=653655bc&is=6523e0bc&hm=10f05950f31e0ce1f594d884f7964d310d96be3de52fb0323b7f6a1e5070d2fa" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
+
   </div>
-</h4>
+</img>
 
 <!--- Profile README Credits: @MrKrishnaAgarwal --->
 
