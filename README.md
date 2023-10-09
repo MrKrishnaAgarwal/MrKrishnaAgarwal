@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
   <h1>
-  Hi there, I'm Krishna Agarwal
+  Hi there, I'm Krishna Agarwal, Mentor of this GitHub repository
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
 </h1>
 
@@ -15,7 +15,6 @@
 
 <div id="header" align="center">
   <div id="badges">
-
 
   <a href="https://krishna-agarwal.medium.com">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
@@ -46,14 +45,14 @@
 </div>
   </div>
 
-
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
+
    <h3>
  💻Tech Passionate | 🚧 OpenSource Enthusiast | 🌍 Explorer | 👨‍💻 Coder </h3> </div>
 
- - <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development, and Cyber Security. </h4>
+- <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development, and Cyber Security. </h4>
 
 - <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more. </h4>
 
@@ -103,7 +102,6 @@
   </h3>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-
   <h5 align="center"> 💻 Software and tools </h5>
 
    <h3 align="center">
@@ -124,15 +122,16 @@
 </summary>
 
 ## :fire: My Stats :
-   <a href="https://github.com/MrKrishnaAgarwal"><img src="https://img.shields.io/github/followers/MrKrishnaAgarwal?label=follow&style=social"/>
 
-  ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=great-gatsby)
+<a href="https://github.com/MrKrishnaAgarwal"><img src="https://img.shields.io/github/followers/MrKrishnaAgarwal?label=follow&style=social"/>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://mrkrishna.w3spaces.com)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKrishnaAgarwal&show_icons=true&theme=great-gatsby)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKrishnaAgarwal&theme=dark&date_format=j%20M%5B%20Y%5D)](https://mrkrishna.w3spaces.com)
 
-  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKrishnaAgarwal&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrishnaAgarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKrishnaAgarwal&theme=github_dark)
 
  </details>
 
@@ -302,10 +301,12 @@
 <details>   <summary>  <h4 align="center"> Latest Blogs 📅</h4>
                                          </summary>
 
-   ## :black_nib: Latest Blog Posts :clipboard:
+## :black_nib: Latest Blog Posts :clipboard:
+
    <h4 align="left">
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Making a chatbot in PictoBlox](https://dev.to/krishnaagarwal/making-a-chatbot-in-pictoblox-123f)
 - [Git and GitHub for Beginners](https://dev.to/krishnaagarwal/git-and-github-for-beginners-3ino)
 - [Thank You DEV 😊](https://dev.to/krishnaagarwal/thank-you-dev-3pfo)
@@ -315,6 +316,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/krishnaagarwal)
+
 </details>
 </h4>
 
@@ -330,20 +332,19 @@
 
 [![An image of @mrkrishnaagarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
 
-
 </p>
  </details>
 
 <br>
 
- ## 🏆 Let's Connect & Thanks for reading
+## 🏆 Let's Connect & Thanks for reading
 
   <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
   </div>
 
   <div align="center">
 
-  <img class="credit"><b>Designed & Developed with <img src="https://cdn.discordapp.com/attachments/1048479953592795156/1160898238107361280/d3exa79-490266e4-bda5-4d95-88a1-9567fab7970b.gif?ex=653655bc&is=6523e0bc&hm=10f05950f31e0ce1f594d884f7964d310d96be3de52fb0323b7f6a1e5070d2fa" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
+<img class="credit"><b>Designed & Developed with <img src="https://cdn.discordapp.com/attachments/1048479953592795156/1160898238107361280/d3exa79-490266e4-bda5-4d95-88a1-9567fab7970b.gif?ex=653655bc&is=6523e0bc&hm=10f05950f31e0ce1f594d884f7964d310d96be3de52fb0323b7f6a1e5070d2fa" width="20" align="center"/> by <a href="https://github.com/MrKrishnaAgarwal"> Krishna Agarwal </b></a>
 
   </div>
 </img>
