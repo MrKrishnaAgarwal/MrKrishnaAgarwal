@@ -334,7 +334,7 @@
 
 <a href="https://novu.co/contributors/MrKrishnaAgarwal/"><img src="https://contributors.novu.co/profiles/MrKrishnaAgarwal-small.jpg" height="170" width="450" alt="" /></a>
 
-[![@mrkrishnaagarwal's Holopin board](https://holopin.io/api/user/board?user=mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
+[![@MrKrishnaAgarwal's Holopin board](https://holopin.io/api/user/board?user=mrkrishnaagarwal)](https://holopin.io/@mrkrishnaagarwal)
 
 </p>
  </details>
