@@ -244,6 +244,13 @@
     </td>
   </tr>
   <tr>
+      <td align="center">
+      <a href="https://github.com/VedantK709">
+        <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="VedantK709"/>
+      </a>
+      <br />
+      <a href="https://github.com/VedantK709">VedantK709</a>
+    </td>
     <td align="center">
       <a href="https://github.com/HridoyHazard">
         <img src="https://avatars2.githubusercontent.com/u/71395891" width="100px;" alt="HridoyHazard"/>
